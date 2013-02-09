@@ -1,0 +1,145 @@
+ABC                              Toolkit for dealing with ABC music notation
+Acme::Addslashes                 PHP security. Now in Perl 6.
+Acme::Meow                       The kitty you always wanted, now in Perl 6
+Adventure::Engine                Helps build and run adventure games.
+Algorithm::Diff                  Contains several interfaces for which computing the differences between two lists.
+Algorithm::Soundex               Soundex Algorithm in Perl 6
+Algorithm::Viterbi               HMM decoding with the Viterbi algorithm.
+BSON                             BSON encoding/decoding, used in MongoDB drivers
+Bailador                         A bare-bones Dancer port
+Benchmark                        Benchmark running times of Perl 6 code
+Benchmark::Plot                  Simple benchmark graphing script
+CGI::Application                 incomplete Perl 6 port of the Perl 5 CGI::Application module
+Cache::Memcached                 Port of Cache::Memcached from Perl 5 to Perl 6
+Class::Utils                     Small utilities to help with defining classes
+Config::INI                      .ini file parser and writer module for Perl 6
+Coroutines                       The only fake threads in Perl 6
+DBIish                           Database connectivity for Perl 6
+Date::WorkdayCalendar            Calendar and Date objects to handle business days, holidays and weekends
+DateTime::Format::W3CDTF         A Perl 6 module to deal with W3CDTF dates
+DateTime::Utils                  strftime and other DateTime enhancements
+Digest                           Pure perl6 implementation of digest algorigthms.
+Digest::MD5                      Perl6 port of Perl5' Digest::MD5 module
+Digest::SHA256                   A Perl 6 port of the SHA256 module in Perl 5
+Druid                            A connection-oriented board game written in Perl 6
+Email::Simple                    Simple email parsing module
+Enc::MIME::Base64                MIME Base64 encoding for Perl 6 binary data and strings using any string encoding.
+Facter                           A port of puppetlabs facter to Perl 6
+Farabi6                          Perl 6 in-browser Editor
+FastCGI                          A FastCGI library for Perl 6
+File::Find::Duplicates           Get a list of duplicate files in directories
+File::Spec                       portably perform operations on file names
+File::Tools                      Various modules for file operations
+Flower                           XML Application Languages, including TAL.
+Form                             A Perl 6 implementation of Perl 6-style string formatting.
+GGE                              Glacial Grammar Engine -- a Perl 6 grammar engine written in Perl 6
+Game::Crypt                      An adventure game.
+Games::BubbleBreaker             A mouse based logic game
+GeoIP                            GeoIP MaxMind library interface
+Grammar::Debugger                Simple tracing and debugging support for Perl 6 grammars
+Grammar::Profiler::Simple        Simple rule profiling for Perl 6 grammars
+HTML::Template                   A simple almost-port of CPAN's HTML::Template to Perl 6
+HTTP::Client                     A flexible HTTP Client library
+HTTP::Easy                       HTTP servers made easy, including PSGI
+HTTP::Server::Simple             Simple webserver module, with PSGI support
+HTTP::Status                     Get the text message associated with an HTTP status code
+IO::Capture::Simple              IO can be captured
+IO::Prompter                     Damian Conway's IO::Prompter
+IO::Select                       Object-oriented interface to the select system call
+IRC::Utils                       A Perl 6 port of the IRC::Utils module
+Inline                           use C-code from within Perl
+IoC                              Wire your application components together using inversion of control
+JSON::Path                       Implementation of the JSONPath data structure query language.
+JSON::RPC                        JSON-RPC 2.0 client and server.
+JSON::Tiny                       A minimal JSON (de)serializer
+LWP::Simple                      LWP::Simple quick & dirty implementation for Rakudo Perl 6
+Lingua::EN::Numbers::Ordinal     A module that generates ordinal numbers from cardinal numbers
+List::Utils                      Simple list utility subs
+Locale::US                       Two letter codes for identifying United States territories and vice versa
+MIME::Base64                     Encoding and decoding Base64 ASCII strings
+MIME::Types                      Parse a mime.types file, and query the results
+MPD                              Interface to libmpdclient C library
+Masquerade                       Let Perl 6 constructs masquerade as other things.
+Math::ContinuedFractions         Basic continued fraction arithmetic
+Math::Model                      Automagic integrator for models (first order ODEs)
+Math::Polynomial                 Simple polynomial class
+Math::RungeKutta                 Numeric integrator for ordinary coupled, linear differential equations
+Math::Vector                     Vector math class
+Method::Modifiers                Adds before, after and around functions to make wrapping method calls easier.
+MiniDBI                          a subset of Perl 5 DBI ported to Perl 6 to use while experts build the Real Deal
+MongoDB                          MongoDB driver
+MuEvent                          An AnyEvent lookalike
+NCurses                          Perl 6 interface to NCurses, the text-based interface libary
+NativeCall                       Call native libraries
+Net::Curl                        Perl 6 interface to libcurl, the free and easy-to-use client-side URL transfer library
+Net::IRC::Bot                    An IRC bot framework
+Netstring                        A library for working with netstrings.
+Nonongram                        incomplete Perl 6 solver of the nonogram puzzle
+PDF::Grammar                     Perl 6 grammars for parsing PDF Content Streams and File Structure
+PSpec                            An RSpec-like testing framework for Perl 6
+Perl6-Math-Quaternion            Hyper-complex numbers as objects with operators
+Perl6::Literate                  Literate programming (à la Haskell) in Perl 6
+Plosurin                         Perl 6 implementation of Closure Templates
+Pod::Parser                      Naive parser for Perl 6 style POD documents
+Pod::To::HTML                    Convert Perl 6 Pod to HTML
+Rakudo::Debugger                 guess
+Redis                            A Perl6 binding for Redis
+SCGI                             A SCGI library for Perl 6
+SDL                              A Perl 6 wrapper around SDL 1.2
+SSL                              Perl6 interface to OpenSSL
+SVG                              A Perl 6 module to generate SVG (Scalable Vector Graphics)
+SVG::Plot                        A Perl 6 charting and plotting library that produces SVG output
+Semantic::Versioning             Semantic versioning for objects
+Sitemap::XML::Parser             Module for parsing sitemap.xml files
+Sort::Naturally                  Provides several routines to ease natural sorting.
+String::CRC32                    Simple Perl 6 class to calculate a CRC32 checksum of a string
+Sum                              Perl6 modules for computing hashes and checksums.
+Tardis                           Time traveling debugger in Perl 6
+Task::Star                       Meta-package for modules included in Rakudo Star
+Template6                        A template engine inspired by TT.
+Template::Mojo                   A templating system similar to Perl 5's Mojo::Template
+Term::ANSIColor                  Colorize terminal output
+Term::ProgressBar                Perl 6 implementation of Progress Bar.
+Test-ClientServer                Fork a single test file for testing network server/client code
+Test-Corpus                      Run a test function against a directory of input and expected output files
+Test::Builder                    Flexible framework for building TAP test libraries
+Test::Harness                    Read TAP output
+Test::Junkie                     A continuous test runner for Perl 6
+Test::Mock                       Simple creation of mock objects using the Act, Arrange, Assert pattern.
+TestML                           A Generic Software Testing Meta Language
+Testing                          Damian Conway's Perl 6 testing module
+Text-Levenshtein                 Calculate Levenshtein edit distance for strings. Perl 5 -> 6 port.
+Text-Tabs-Wrap                   Simple line-wrapping and tab [un]expansion tools
+Text::Abbrev                     Create an abbreviation table from a list
+Text::CSV                        A parser for CSV (comma-separated values) files for Perl 6
+Text::Diff                       Perform diffs on files and record sets
+Text::Emotion                    Get an emotional score for a passage of text based on its word use.
+Text::Markdown                   Perl 6 implementation of Markdown.
+Text::T9                         Guess words basing on a T9 key sequence
+Text::Table::List                Build simple text-based tables for field listings.
+Threads                          Threads in Perl 6. Yeah, really
+Tree::Simple                     A simple tree object
+Typed::Subroutines               Better type checking for first-class functions
+URI                              A URI implementation using Perl 6 grammars to implement RFC 3986 BNF
+WWW::App                         Build web applications in Perl 6, easily.
+WWW::App::Ballet                 A Dancer-like interface to WWW::App
+WWW::App::MVC                    MVC Framework for Web Apps in Perl 6.
+Web                              A Perl 6 web framework
+XML                              A full-featured, pure-perl XML library (parsing, manipulation, emitting, queries, etc.)
+XML::Parser::Tiny                A Perl 6 module for parsing XML documents
+XML::Query                       jQuery-like node selecting and traversing for XML.
+XML::Writer                      A Perl 6 module to generate XML
+XMMS2                            Perl 6 bindings and stuff for XMMS2
+XXX                              See Your Data in the Nude
+YAML                             YAML Ain't Markup Language
+Yapsi                            A Perl 6 compiler-and-runtime written in Perl 6
+Yarn                             A proof-of-concept blogging application using Perl 6's Web.pm
+bioperl6                         Collection of Bioinformatics modules and objects
+io-prompt                        [old] Perl6 basic type validating IO prompting for command line tools.
+lolsql                           [old] I can has lolsql parser?
+mandelbrot                       Simple Mandelbrot Set scripts
+messagepack-pm6                  [old] A MessagePack implementation written in Perl 6
+november                         [old] A wiki engine written in Perl 6
+p6doc                            Perl 6 documentation (tools and docs)
+panda                            A module management solution
+ufo                              Swoops down and creates your Perl 6 project Makefile for you

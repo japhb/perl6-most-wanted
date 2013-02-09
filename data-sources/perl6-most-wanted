@@ -1,0 +1,22 @@
+ExtUtils::Command: Port from Perl 5 (or should that be Shell::Command?)
+Email::MIME
+HTTP::Response (and likely HTTP::Request too). LWP::Simple is evolving and
+    evolving, so maybe there's a need for a full-blown LWP? (Of course!
+    Preferably with JavaScript handling at some point..) In the meantime,
+    check out WWW::App, which has WWW::Response and WWW::Request as well as
+    convenient sugar coating for even easier development.
+SSL
+Digest::* (preferably with a unified API) - MD5 and SHA256 already exist.
+    What other Digests are wanted?
+All the boring stuff like PDF, Excel etc
+Data formats of all kinds from SOAP, CSV, YouNameIt (ideally Grammar -
+    validating - generating - parsing - the whole range)
+Net::* - all kinds of networking stuff
+A common widget set (Qt, Gtk)
+Something like either GD, Imager or Image Magick
+GZIP!
+Curses[*], Readline - all things terminal-ish
+Crypto - GPG etc
+Text::Template
+Config::Simple
+Smart::Match, mebbe with a bit different name?

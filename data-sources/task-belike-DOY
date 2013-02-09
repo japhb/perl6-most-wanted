@@ -1,0 +1,61 @@
+    Useful apps
+        App::Ack
+        App::Nopaste 0.20
+        App::ph
+        App::Termcast 0.06
+        App::Ttyrec
+        LastFM::Export
+        Term::TtyRec::Plus 0.09
+    Development tools
+        App::ForkProve 0.2.0
+        Carp::Always::Color 0.03
+        Carp::REPL
+        circular::require
+        Devel::Cover
+        Devel::FindRef
+        Devel::NYTProf 3.00
+        Devel::REPL
+        Devel::STDERR::Indent
+        Devel::Trace
+        Dist::Zilla 4.00
+        Dist::Zilla::PluginBundle::DOY 0.09
+        ExtUtils::MakeMaker::Dist::Zilla::Develop
+        Test::Pretty
+    Useful optional deps for things
+        autodie
+        Archive::Zip
+        B::Keywords
+        Class::Refresh
+        Devel::PartialDump
+        HTTP::Parser::XS
+        JSON
+        LWP
+        LWP::Protocol::https
+        Pod::Coverage::TrustPod
+        Proc::InvokeEditor
+        Term::ReadLine::Gnu
+        Test::Pod
+        Test::Pod::Coverage
+        YAML
+    CPAN interaction
+        App::cpanminus 1.5007
+        App::cpanoutdated 0.05
+        App::pmuninstall
+        CPAN::Mini
+        Pod::Cpandoc
+    Modules I use a lot
+        Bread::Board::Declare
+        DateTime
+        Moose 2.0400
+        namespace::autoclean
+        Path::Class 0.25
+        Plack
+        Term::ProgressBar
+        Test::Fatal
+        Test::More 0.88
+        Test::Requires
+    Dependencies for my non-CPAN apps
+        File::pushd
+        IO::Pty::Easy 0.08
+        JSON
+        WWW::Mechanize

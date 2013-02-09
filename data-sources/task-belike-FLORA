@@ -1,0 +1,67 @@
+    Applications
+        App::Ack
+        App::Metabase::Relayd
+        App::Nopaste
+        App::Software::License
+        App::cpanminus
+        App::cpanoutdated
+        CPAN::Mini
+        CPAN::Mini::Devel
+        CPAN::Uploader
+    Optional Dependencies Of Other Modules
+        CPAN::Reporter
+        PadWalker
+        Task::SDK::Moose
+        Term::ReadLine::Gnu
+        Test::Reporter
+        Test::Reporter::Transport::Socket
+    Development Tools
+        Acme::MetaSyntactic
+        Carp::Always
+        Carp::Always::Color
+        Carp::REPL
+        Devel::bt
+        Devel::Cover
+        Devel::NYTProf
+        Dist::Zilla
+        Dist::Zilla::PluginBundle::FLORA
+        Gitalist
+        Module::CPANTS::Analyse
+        Module::Install 0.95
+        Module::Install::AuthorRequires
+        Module::Install::AuthorTests
+        Module::Install::CheckConflicts
+        Module::Install::ExtraTests
+        Perl::Tidy
+        Perl::Version 1.010
+        Pod::Coverage::TrustPod
+        Test::Aggregate
+        Test::Pod
+        Test::Pod::Coverage
+        Test::Without::Module
+        V
+    Modules I use a lot
+        Catalyst::Model::KiokuDB
+        Data::Visitor
+        Email::MIME::Kit
+        Email::MIME::Kit::Assembler::Markdown
+        Email::MIME::Kit::Renderer::TT
+        Email::Sender
+        Function::Parameters
+        JSON
+        List::AllUtils
+        Method::Signatures::Simple
+        Moose
+        Moose::Autobox
+        MooseX::Declare
+        MooseX::LazyRequire
+        MooseX::Types::Common
+        MooseX::Types::DateTime
+        MooseX::Types::Email
+        MooseX::Types::LoadableClass
+        MooseX::Types::Path::Class
+        MooseX::Types::URI
+        Task::Catalyst
+        Task::KiokuDB
+        Task::Plack
+        Test::WWW::Mechanize::Catalyst

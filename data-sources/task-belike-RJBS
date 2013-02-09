@@ -1,0 +1,62 @@
+    Perl for Perl's Sake
+        perl 5.014
+        App::grindperl
+        App::perlbrew
+    Useful Command-Line Tools
+        App::Ack 1.82
+        App::Nopaste 0.34
+        App::Whiff
+        App::Uni
+        Unicode::Tussle
+    Tools for Working with the CPAN
+        perl 5.14.0
+        App::cpanminus 1.1002
+        App::cpanoutdated 0.12
+        CPAN::Mini 0.563
+        Module::Which
+        Pod::Cpandoc
+    Tools for Building CPAN Distributions
+        Dist::Zilla 4
+        Dist::Zilla::PluginBundle::RJBS 1.012
+        Module::CoreList 2.68
+        Perl::Tidy 20071205
+        Pod::Weaver 3.101631
+    Application Frameworks
+        App::Cmd 0.308
+    Email-Handling Libraries
+        Email::Filter 1.02
+        Email::MIME 1.905
+        Email::Sender
+        Email::Sender::Transport::SQLite
+    Other Libraries I Use
+        Carp::Always
+        Config::INI 0.011
+        DBD::SQLite
+        Data::GUID 0.044
+        DateTime 0.51
+        Devel::Cover
+        Devel::NYTProf
+        HTML::Element 3.22
+        JSON 2.12
+        List::AllUtils
+        Log::Dispatchouli 2.000
+        Moose 1.19
+        Moose::Autobox 0.10
+        MooseX::StrictConstructor
+        namespace::autoclean
+        PPI 1.212
+        Params::Util 0.38
+        Plack
+        Scalar::Util 1.18
+        Sub::Exporter 0.980
+        Term::ReadLine::Gnu 1
+        Text::Markdown 1.0.24
+        Throwable 0.102080
+        Throwable::X
+        Try::Tiny 0.007
+    Sanity-Check
+        Mozilla::CA
+        Crypt::SSLeay
+        LWP::Protocol::https
+        IO::Socket::SSL
+        Config::GitLike
