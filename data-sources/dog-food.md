@@ -1,4 +1,4 @@
-= Dog Food
+# Dog Food
 
 These are modules, apps, and procedures that either should be, or already are,
 written in Perl 6.

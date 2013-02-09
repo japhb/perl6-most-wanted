@@ -1,4 +1,4 @@
-= Most wanted native bindings
+# Most Wanted Native Bindings
 
 These are the native libraries that are most wanted as NativeCall bindings
 rather than as Perl 6 source ports.  Often this is because the native library
@@ -9,11 +9,11 @@ in a correct new implementation without great effort -- effort that could be
 better spent on other most-wanted tasks.
 
 
-== Compression
+## Compression
 
 * zlib
 
 
-== Security
+## Security
 
 * openssl

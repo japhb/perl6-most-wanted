@@ -1,10 +1,10 @@
-= Requests from module and app authors
+# Requests from Module and App Authors
 
 These are core features and/or base modules that various authors need
 before they can build/port their modules and apps to Perl 6.
 
 
-== __sri, primary author of Mojo/Mojolicious
+## __sri, primary author of Mojo/Mojolicious
 
 * http://irclog.perlgeek.de/perl6/2013-02-07#i_6422674
   + CORE: unicode
@@ -21,13 +21,13 @@ before they can build/port their modules and apps to Perl 6.
   + automatic restart?
 
 
-== tadzik, panda maintainer and prolific Perl 6 module author
+## tadzik, panda maintainer and prolific Perl 6 module author
 
 * proper async IO
 * libuv binding or the equivalent
 
 
-== skids, Perl 6 module author
+## skids, Perl 6 module author
 
 * unsigned sized native types
 * diamond role composition

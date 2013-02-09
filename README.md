@@ -1,5 +1,4 @@
-perl6-most-wanted
-=================
+# perl6-most-wanted
 
 It's generally agreed that to kickstart active use of Perl 6 for a broad range
 of tasks, we need to provide a "distro" release that includes modules covering
