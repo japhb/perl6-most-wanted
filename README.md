@@ -1,6 +1,6 @@
 # perl6-most-wanted
 
-[Lists of most wanted](most-wanted/README-wanted.md)
+[Lists](most-wanted/README-wanted.md) of most wanted
 [core features](most-wanted/features.md),
 [native library bindings](most-wanted/bindings.md), and
 [modules](most-wanted/modules.md) for Perl 6, along with the
