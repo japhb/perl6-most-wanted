@@ -1,10 +1,20 @@
 # perl6-most-wanted
 
-It's generally agreed that to kickstart active use of Perl 6 for a broad range
-of tasks, we need to provide a "distro" release that includes modules covering
-many common needs not met by the standard Perl 6 setting.  For a while now
-this effort has been led by Rakudo Star, but (as of early 2013) it is far from
-complete; too incomplete in fact to be useful for any but early adopters.
+[Lists of most wanted](most-wanted/README-wanted.md)
+[core features](most-wanted/features.md),
+[native library bindings](most-wanted/bindings.md), and
+[modules](most-wanted/modules.md) for Perl 6, along with the
+[research](data-sources/README-sources.md) that helped us select them.
+
+
+## Why do this?
+
+To kickstart active use of Perl 6 for a broad range of tasks, we need to
+provide a "distro" release that includes modules covering many common needs
+not met by the standard Perl 6 setting.  For a while now this effort has been
+led by [Rakudo Star](http://rakudo.org/how-to-get-rakudo/), but
+(as of early 2013) it is far from complete; too incomplete in fact to be
+useful for any but early adopters.
 
 To make a distro release useful for "early majority" users, the existing
 modules need to be filled out (documentation, better error handling, etc.), and
