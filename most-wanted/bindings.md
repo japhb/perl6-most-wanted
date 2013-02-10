@@ -14,6 +14,24 @@ better spent on [other most-wanted tasks](README-wanted.md).
 * zlib
 
 
+## Image processing
+
+* Canvas and/or GD
+* Charting/Graphing
+* ImageMagick or similar
+
+
 ## Security
 
 * openssl
+* ssh
+
+
+## User interfaces
+
+* Terminal
+  + curses
+  + readline
+* GUI
+  + Qt
+  + Gtk
