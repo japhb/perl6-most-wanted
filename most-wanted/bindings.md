@@ -12,6 +12,15 @@ better spent on [other most-wanted tasks](README-wanted.md).
 ## Compression
 
 * zlib
+* bzip2
+
+
+## Databases
+
+* DBD::
+  + MySQL
+  + Postgres
+  + SQLite
 
 
 ## Image processing
@@ -35,3 +44,5 @@ better spent on [other most-wanted tasks](README-wanted.md).
 * GUI
   + Qt
   + Gtk
+* 3D
+  + OpenGL

@@ -7,6 +7,9 @@ libraries, but that is not necessarily the case.
 
 ## Configuration
 
+* INI
+* Netrc
+
 
 ## Cryptography and security
 
@@ -28,10 +31,16 @@ libraries, but that is not necessarily the case.
 
 ## Data formats
 
+* Archives
+  + Tar
+  + ZIP
 * Delimited Text
   + CSV
   + TSV
+* JSON
 * MIME
+  + Base64
+  + QuotedPrint
 * PDF
 
 
@@ -40,31 +49,86 @@ libraries, but that is not necessarily the case.
 
 ## Databases
 
+* DBI (for drivers see [native bindings](bindings.md))
+* DBM?
+
+
+## Development
+
+* Ecosystem (panda and supporting modules)
+* Corelist
+* Benchmark
+* Debugger
+* Profiler
+
+
+## Internationalization
+
+* Unicode::Collate?
+* Unicode::UCD?
+* Encodings/charsets other than builtin UTF-8/Unicode
+* Maketext
+* Locales?
+* Standard codes:
+  + country
+  + currency
+  + language
+  + script
+
+
+## IPC
+
+
+
+## Logging
+
+* pluggable logging
+  + syslog
+  + Windows logging
+  + file/handle
+
 
 ## Networking
 
 * Email
-  + POP
+  + POP3
   + IMAP
   + SMTP
 * HTTP
-  + LWP or modern equivalent
+  + LWP or modern equivalent (Mojo::*?)
   + Mechanize
   + Plack
 * RPC
-  + SOAP?
+  + SOAP
   + XML-RPC?
 * Other
   + FTP
+  + NNTP
+  + Ping
   + Telnet
 
 
 ## Text processing
 
 * Templating
+* Text::Wrap
+* Text::Tabs?
 
 
 ## Testing
+
+* TAP::Parser
+* Test::Harness/App::Prove
+
+
+## Unix
+
+* open2/open3
+* shared mem
+* Fcntl
+* POSIX
+* User::grent
+* User::pwent
 
 
 ## User interfaces
@@ -72,6 +136,13 @@ libraries, but that is not necessarily the case.
 ### Command line
 
 ### Terminal
+
+* Term::ANSIColor
+* Term::Cap
+* Term::Complete
+* Term::ReadLine
+* Term::UI?
+
 
 ### GUI
 
