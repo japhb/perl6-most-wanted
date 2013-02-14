@@ -78,6 +78,7 @@ libraries, but that is not necessarily the case.
 
 ## IPC
 
+* IPC::Cmd
 
 
 ## Logging
@@ -98,6 +99,7 @@ libraries, but that is not necessarily the case.
   + LWP or modern equivalent (Mojo::*?)
   + Mechanize
   + Plack
+  + RobotUA?
 * RPC
   + SOAP
   + XML-RPC?
@@ -113,12 +115,14 @@ libraries, but that is not necessarily the case.
 * Templating
 * Text::Wrap
 * Text::Tabs?
+* Text::Abbrev?
 
 
 ## Testing
 
 * TAP::Parser
 * Test::Harness/App::Prove
+* Coverage
 
 
 ## Unix
@@ -135,13 +139,15 @@ libraries, but that is not necessarily the case.
 
 ### Command line
 
+* Term::UI?
+
+
 ### Terminal
 
 * Term::ANSIColor
 * Term::Cap
 * Term::Complete
 * Term::ReadLine
-* Term::UI?
 
 
 ### GUI
