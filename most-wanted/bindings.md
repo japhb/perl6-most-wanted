@@ -9,10 +9,11 @@ in a correct new implementation without great effort -- effort that could be
 better spent on [other most-wanted tasks](README-wanted.md).
 
 
-## Compression
+## Archives and Compression
 
 * zlib
 * bzip2
+* 7zip (7z.so/lib7zip)
 
 
 ## Databases
