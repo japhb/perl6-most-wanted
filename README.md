@@ -1,5 +1,7 @@
 # perl6-most-wanted
 
+**NOTE: THIS FORK IS DEPRECATED; USE [perl6/perl6-most-wanted](https://github.com/perl6/perl6-most-wanted) INSTEAD**
+
 [Lists](most-wanted/README-wanted.md) of most wanted
 [core features](most-wanted/features.md),
 [native library bindings](most-wanted/bindings.md), and
