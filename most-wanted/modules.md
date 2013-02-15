@@ -35,7 +35,7 @@ libraries, but that is not necessarily the case.
   + Tar
   + ZIP
 * Delimited Text
-  + CSV
+  + CSV (WIP: [Text::CSV](https://github.com/masak/csv/))
   + TSV
 * JSON
 * MIME
