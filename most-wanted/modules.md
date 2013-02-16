@@ -123,6 +123,7 @@ libraries, but that is not necessarily the case.
 * TAP::Parser
 * Test::Harness/App::Prove
 * Coverage
+* Pod coverage
 
 
 ## Unix
