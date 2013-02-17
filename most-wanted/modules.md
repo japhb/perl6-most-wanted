@@ -138,22 +138,13 @@ libraries, but that is not necessarily the case.
 
 ## User interfaces
 
-### Command line
-
-* Term::UI?
-
-
-### Terminal
-
-* Term::ANSIColor
-* Term::Cap
-* Term::Complete
-* Term::ReadLine
-
-
-### GUI
-
-### Web
+* Command line
+  + Term::UI?
+* Terminal
+  + Term::ANSIColor
+  + Term::Cap
+  + Term::Complete
+  + Term::ReadLine
 
 
 ## Utilities
