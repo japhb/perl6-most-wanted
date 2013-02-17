@@ -1,0 +1,15 @@
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+use JSON;
+use FindBin;
+use File::Slurp;
+
+my $raw_file    =  $ARGV[0] || "$FindBin::Bin/../data-sources/perl6-module-list.json";
+my $pretty_file =  $raw_file;
+   $pretty_file =~ s/(\.json)$/-pretty$1/;
+
+my $raw    = read_file($raw_file);
+my $pretty = to_json(from_json($raw), { pretty => 1});
+write_file($pretty_file, $pretty);
