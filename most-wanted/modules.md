@@ -37,11 +37,15 @@ libraries, but that is not necessarily the case.
 * Delimited Text
   + CSV (WIP: [Text::CSV](https://github.com/masak/csv/))
   + TSV
-* JSON (WIP: [JSON::Tiny](https://github.com/moritz/json/))
+* Textual interchange of structured data
+  + JSON (WIP: [JSON::Tiny](https://github.com/moritz/json/))
+  + XML
+  + YAML
 * MIME
   + Base64
   + QuotedPrint
 * PDF
+* RSS/Atom
 
 
 ## Data processing
@@ -55,17 +59,28 @@ libraries, but that is not necessarily the case.
 
 ## Development
 
-* Ecosystem (panda and supporting modules)
 * Corelist
-* Benchmark
-* Debugger
+* Ecosystem (WIP: [panda](https://github.com/tadzik/panda/))
+  + Pod::Cpandoc
+  + CPAN::Mini equivalent?
+* Dist::Zilla
+  + CPAN::Uploader
+* App::Grindperl
+* Benchmark (WIP: [Benchmark](https://github.com/perlpilot/benchmark/))
+* Debugger (WIP: [Rakudo::Debugger](https://github.com/jnthn/rakudo-debugger/))
+  + Carp::REPL
 * Profiler
+  + Grammars (WIP: [Grammar::Profiler::Simple](https://github.com/perlpilot/Grammar-Profiler-Simple/))
+  + Devel::NYTProf?
+* Editor/IDE interfaces
+  + Vi::QuickFix?
 
 
 ## Internationalization
 
 * Unicode::Collate?
 * Unicode::UCD?
+* App::Uni
 * Encodings/charsets other than builtin UTF-8/Unicode
 * Maketext
 * Locales?
@@ -89,12 +104,18 @@ libraries, but that is not necessarily the case.
   + file/handle
 
 
+## Misc
+
+* File::pushd
+
+
 ## Networking
 
 * Email
   + POP3
   + IMAP
   + SMTP
+  + Email::Sender
 * HTTP
   + LWP or modern equivalent (Mojo::*?)
   + Mechanize
@@ -108,6 +129,7 @@ libraries, but that is not necessarily the case.
   + NNTP
   + Ping
   + Telnet
+  + App::Nopaste
 
 
 ## Text processing
@@ -150,3 +172,4 @@ libraries, but that is not necessarily the case.
 ## Utilities
 
 * ExtUtils::Command or Shell::Command
+* App::Ack
