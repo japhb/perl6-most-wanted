@@ -37,7 +37,7 @@ libraries, but that is not necessarily the case.
 * Delimited Text
   + CSV (WIP: [Text::CSV](https://github.com/masak/csv/))
   + TSV
-* JSON
+* JSON (WIP: [JSON::Tiny](https://github.com/moritz/json/))
 * MIME
   + Base64
   + QuotedPrint
