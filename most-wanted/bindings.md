@@ -33,17 +33,19 @@ better spent on [other most-wanted tasks](README-wanted.md).
 
 ## Security
 
-* openssl
+* openssl (WIP: [SSL](https://github.com/grondilu/openssl/))
 * ssh
 
 
 ## User interfaces
 
 * Terminal
-  + curses
+  + curses (WIP: [NCurses](https://github.com/azawawi/perl6-ncurses/))
   + readline
 * GUI
   + Qt
   + Gtk
-* 3D
+* 2D Graphics
+  + SDL (WIP: [SDL](https://github.com/PerlGameDev/SDL6/))
+* 3D Graphics
   + OpenGL
