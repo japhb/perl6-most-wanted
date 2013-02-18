@@ -41,10 +41,20 @@ libraries, but that is not necessarily the case.
   + JSON (WIP: [JSON::Tiny](https://github.com/moritz/json/))
   + XML
   + YAML
+* Web markup
+  + HTML
+  + CSS
+  + SVG
+* Documents
+  + Pod::* (some functionality handled internally, but lots to fill in)
+  + Markdown
+  + PDF
+* File metadata
+  + Image::Exiftool
+  + MP3 tags
 * MIME
   + Base64
   + QuotedPrint
-* PDF
 * RSS/Atom
 
 
@@ -61,6 +71,7 @@ libraries, but that is not necessarily the case.
 
 * Corelist
 * Ecosystem (WIP: [panda](https://github.com/tadzik/panda/))
+  + File::ShareDir
   + Pod::Cpandoc
   + CPAN::Mini equivalent?
   + App::cpanoutdated (equivalent for panda)
@@ -75,7 +86,10 @@ libraries, but that is not necessarily the case.
   + Grammars (WIP: [Grammar::Profiler::Simple](https://github.com/perlpilot/Grammar-Profiler-Simple/))
   + Devel::NYTProf?
 * Editor/IDE interfaces
+  + Proc::InvokeEditor
   + Vi::QuickFix?
+* Source management
+  + Git::Wrapper
 
 
 ## Internationalization
@@ -123,39 +137,63 @@ libraries, but that is not necessarily the case.
 * HTTP
   + LWP or modern equivalent (Mojo::*?)
   + Mechanize
-  + Plack
+  + Plack/Task::Plack
   + RobotUA?
 * RPC
   + SOAP
   + XML-RPC?
-* Other
+* Other protocols
   + FTP
   + NNTP
   + Ping
   + Telnet
+* Internet services
   + App::Nopaste
+  + Net::GitHub::V3
+* Security
+  + Mozilla::CA
 
 
 ## Text processing
 
 * Templating
-* Text::Wrap
-* Text::Tabs?
-* Text::Abbrev?
+* Specialized tasks
+  + Text::Wrap
+  + Text::Tabs
+  + Text::Abbrev
+* Regex/Grammar utilities
+  + Regexp::Common
 
 
 ## Testing
 
-* TAP::Parser
-* Test::Harness
-* App::Prove
-* App::ForkProve
-* Coverage
-* Pod coverage
+* Smoking and reporting
+  + Test::Reporter
+  + CPANTS
+* Harnesses
+  + TAP::Parser
+  + Test::Harness
+  + App::Prove
+  + App::ForkProve
+  + Test::Aggregate?
+* Test output
+  + Test::Differences
+  + Test::Deep
+  + Test::Pretty?
+* Completeness
+  + Code coverage
+  + Pod coverage
+* Specific tests
+  + Test::CPAN::Meta (but for panda)
+  + Test::Without::Module
+  + Test::Requires
+  + Test::Spelling
+  + Test::NoTabs
 
 
 ## Unix
 
+* IO::Pty/IO::Pty::Easy
 * open2/open3
 * shared mem
 * Fcntl
@@ -168,6 +206,7 @@ libraries, but that is not necessarily the case.
 
 * Command line
   + Term::UI?
+  + Term::ProgressBar or some variant?
 * Terminal
   + Term::ANSIColor
   + Term::Cap
