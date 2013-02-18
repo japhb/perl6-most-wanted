@@ -7,6 +7,7 @@ libraries, but that is not necessarily the case.
 
 ## Configuration
 
+* GitLike
 * INI
 * Netrc
 
@@ -52,13 +53,18 @@ libraries, but that is not necessarily the case.
 * File metadata
   + Image::Exiftool
   + MP3 tags
-* MIME
+* Email
+  + Email::Simple
+  + MIME
   + Base64
   + QuotedPrint
 * RSS/Atom
 
 
 ## Data processing
+
+* Data::GUID
+* Data::Visitor
 
 
 ## Databases
@@ -75,19 +81,29 @@ libraries, but that is not necessarily the case.
   + Pod::Cpandoc
   + CPAN::Mini equivalent?
   + App::cpanoutdated (equivalent for panda)
-* Perl::Tidy
-* Dist::Zilla
-  + CPAN::Uploader
 * App::Grindperl
-* Benchmark (WIP: [Benchmark](https://github.com/perlpilot/benchmark/))
-* Debugger (WIP: [Rakudo::Debugger](https://github.com/jnthn/rakudo-debugger/))
+* Benchmarking (WIP: [Benchmark](https://github.com/perlpilot/benchmark/))
+* Debugging (WIP: [Rakudo::Debugger](https://github.com/jnthn/rakudo-debugger/))
   + Carp::REPL
-* Profiler
+  + Devel::FindRef
+  + Devel::PartialDump
+* Tracing
+  + Devel::Trace
+  + Devel::STDERR::Indent
+* Profiling
   + Grammars (WIP: [Grammar::Profiler::Simple](https://github.com/perlpilot/Grammar-Profiler-Simple/))
   + Devel::NYTProf?
+* Tidying
+  * Perl::Tidy
+  * Code::TidyAll
 * Editor/IDE interfaces
   + Proc::InvokeEditor
   + Vi::QuickFix?
+* Project lifecycle
+  + Dist::Zilla
+  + CPAN::Uploader
+* License management
+  + Software::License/App::Software::License
 * Source management
   + Git::Wrapper
 
@@ -111,6 +127,7 @@ libraries, but that is not necessarily the case.
 ## IPC
 
 * IPC::Cmd
+* App::Whiff
 
 
 ## Logging
@@ -150,6 +167,7 @@ libraries, but that is not necessarily the case.
 * Internet services
   + App::Nopaste
   + Net::GitHub::V3
+  + App::ph
 * Security
   + Mozilla::CA
 
@@ -200,6 +218,7 @@ libraries, but that is not necessarily the case.
 * POSIX
 * User::grent
 * User::pwent
+* Daemonize
 
 
 ## User interfaces
@@ -212,9 +231,14 @@ libraries, but that is not necessarily the case.
   + Term::Cap
   + Term::Complete
   + Term::ReadLine
+  + App::Ttyrec?
+  + App::Termcast?
+* Charting/Graphing
+  + Chart::Clicker
 
 
 ## Utilities
 
 * ExtUtils::Command or Shell::Command
 * App::Ack
+* Email::Filter
