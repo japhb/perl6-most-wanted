@@ -63,6 +63,8 @@ libraries, but that is not necessarily the case.
 * Ecosystem (WIP: [panda](https://github.com/tadzik/panda/))
   + Pod::Cpandoc
   + CPAN::Mini equivalent?
+  + App::cpanoutdated (equivalent for panda)
+* Perl::Tidy
 * Dist::Zilla
   + CPAN::Uploader
 * App::Grindperl
@@ -78,9 +80,10 @@ libraries, but that is not necessarily the case.
 
 ## Internationalization
 
+* App::Uni
 * Unicode::Collate?
 * Unicode::UCD?
-* App::Uni
+* Unicode::Tussle?
 * Encodings/charsets other than builtin UTF-8/Unicode
 * Maketext
 * Locales?
@@ -111,6 +114,7 @@ libraries, but that is not necessarily the case.
 
 ## Networking
 
+* URI (WIP: [URI](https://github.com/ihrd/uri/))
 * Email
   + POP3
   + IMAP
@@ -143,7 +147,9 @@ libraries, but that is not necessarily the case.
 ## Testing
 
 * TAP::Parser
-* Test::Harness/App::Prove
+* Test::Harness
+* App::Prove
+* App::ForkProve
 * Coverage
 * Pod coverage
 
