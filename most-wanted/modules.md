@@ -5,18 +5,22 @@ These are the most-wanted pure Perl 6 modules (as opposed to
 libraries, but that is not necessarily the case.
 
 
+## Algorithms
+
+* Diff (WIP: [Algorithm::Diff](https://github.com/Takadonet/Algorithm--Diff/))
+
 ## Configuration
 
+* INI (WIP: [Config::INI](https://github.com/tadzik/perl6-Config-INI/))
 * GitLike
-* INI
 * Netrc
 
 
 ## Cryptography and security
 
-* Digest (unified interface)
-  + MD5
-  + SHA* (at least SHA1 and SHA256)
+* Digest (unified interface) (WIP: [Digest](https://github.com/grondilu/libdigest-perl6/))
+  + MD5 (WIP: [Digest::MD5](https://github.com/cosimo/perl6-digest-md5/))
+  + SHA* (WIP: [Digest::SHA256](https://github.com/soh-cah-toa/p6-digest-sha256/))
 * Crypto
   + GPG
   + Block cyphers
@@ -42,6 +46,8 @@ libraries, but that is not necessarily the case.
   + JSON (WIP: [JSON::Tiny](https://github.com/moritz/json/))
   + XML
   + YAML
+* Binary interchange of structured data
+  + BSON (WIP: [BSON](https://github.com/bbkr/BSON/))
 * Web markup
   + HTML
   + CSS
@@ -54,7 +60,7 @@ libraries, but that is not necessarily the case.
   + Image::Exiftool
   + MP3 tags
 * Email
-  + Email::Simple
+  + Email::Simple (WIP: [Email::Simple](https://github.com/retupmoca/p6-Email-Simple/))
   + MIME
   + Base64
   + QuotedPrint
@@ -69,8 +75,10 @@ libraries, but that is not necessarily the case.
 
 ## Databases
 
-* DBI (for drivers see [native bindings](bindings.md))
+* DBI (WIP: [DBIish](https://github.com/perl6/DBIish/) -- for drivers see [native bindings](bindings.md))
 * DBM?
+* Key-value stores
+  + Memcached (WIP: [Cache::Memcached](https://github.com/cosimo/perl6-cache-memcached/))
 
 
 ## Development
