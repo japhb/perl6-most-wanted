@@ -11,5 +11,5 @@ my $pretty_file =  $raw_file;
    $pretty_file =~ s/(\.json)$/-pretty$1/;
 
 my $raw    = read_file($raw_file);
-my $pretty = to_json(from_json($raw), { pretty => 1});
+my $pretty = to_json(from_json($raw), { pretty => 1, canonical => 1 });
 write_file($pretty_file, $pretty);
