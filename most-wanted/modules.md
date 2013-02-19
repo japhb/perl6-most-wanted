@@ -23,7 +23,7 @@ libraries, but that is not necessarily the case.
 * Digest (unified interface) (WIP: [Digest](https://github.com/grondilu/libdigest-perl6/))
   + CRC32 (WIP: [String::CRC32](https://github.com/cosimo/perl6-string-crc32/))
   + MD5 (WIP: [Digest::MD5](https://github.com/cosimo/perl6-digest-md5/))
-  + SHA* (WIP: [Digest::SHA256](https://github.com/soh-cah-toa/p6-digest-sha256/))
+  + SHA* (WIP: [Digest::SHA256](https://github.com/soh-cah-toa/p6-digest-sha256/), [Digest](https://github.com/grondilu/libdigest-perl6))
 * Crypto
   + GPG
   + Block cyphers
