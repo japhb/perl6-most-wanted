@@ -55,4 +55,4 @@ better spent on [other most-wanted tasks](README-wanted.md).
 * XML
   + Libxml2
   + Libxslt
-  + GeoIP (WIP: [GeoIP](https://github.com/bbkr/GeoIPerl6))
+* GeoIP (WIP: [GeoIP](https://github.com/bbkr/GeoIPerl6))
