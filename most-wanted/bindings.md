@@ -26,7 +26,7 @@ better spent on [other most-wanted tasks](README-wanted.md).
 
 ## Image processing
 
-* Canvas and/or GD
+* Canvas and/or GD (WIP: [GD](https://github.com/mrhdias/perl6-GD/))
 * Charting/Graphing
 * ImageMagick or similar
 
