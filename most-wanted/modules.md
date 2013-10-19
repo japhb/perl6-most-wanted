@@ -70,7 +70,7 @@ libraries, but that is not necessarily the case.
   + MP3 tags
 * Email
   + Email::Simple (WIP: [Email::Simple](https://github.com/retupmoca/p6-Email-Simple/))
-  + MIME
+  + MIME (WIP: [Email::MIME](https://github.com/retupmoca/p6-Email-MIME/))
     - MIME::Types (WIP: [MIME::Types](https://github.com/supernovus/perl6-mime-types/))
   + Base64 (WIP: [MIME::Base64](https://github.com/moritz/Perl6-MIME-Base64/), [Enc::MIME::Base64](https://github.com/ronaldxs/perl6-Enc-MIME-Base64/))
   + QuotedPrint
