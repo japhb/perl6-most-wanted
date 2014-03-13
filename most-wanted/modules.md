@@ -145,9 +145,9 @@ libraries, but that is not necessarily the case.
 * Unicode::Tussle?
 * Encodings/charsets other than builtin UTF-8/Unicode
 * Maketext
-* Locales?
+* Locales? (WIP: [CLDR::List](https://github.com/perl-cldr/cldr-list-pm6/))
 * Standard codes:
-  + country
+  + country (WIP: [Locale::US](https://github.com/perlpilot/p6-Locale-US))
   + currency
   + language
   + script
