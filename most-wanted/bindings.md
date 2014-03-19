@@ -11,7 +11,7 @@ better spent on [other most-wanted tasks](README-wanted.md).
 
 ## Archives and Compression
 
-* zlib
+* zlib (WIP: [Compress::Zlib](https://github.com/retupmoca/P6-Compress-Zlib/))
 * bzip2
 * 7zip (7z.so/lib7zip)
 
