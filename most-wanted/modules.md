@@ -49,7 +49,9 @@ libraries, but that is not necessarily the case.
   + JSON (WIP: [JSON::Tiny](https://github.com/moritz/json/))
     - JSONPath (WIP: [JSON::Path](https://github.com/jnthn/json-path/))
   + XML
-    - parse (WIP: [XML::Parser::Tiny](https://github.com/afiskon/p6-xml-parser-tiny/))
+    - parse 
+      - (WIP: [XML::Parser::Tiny](https://github.com/afiskon/p6-xml-parser-tiny/))
+      - (WIP: [HTML::Parser::XML](https://github.com/tony-o/perl6-html-parser-xml))
     - emit (WIP: [XML::Writer](https://github.com/masak/xml-writer/))
     - full (WIP: [XML](https://github.com/supernovus/exemel/))
   + YAML (WIP: [YAML](https://github.com/ingydotnet/yaml-pm6/))
