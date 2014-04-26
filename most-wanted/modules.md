@@ -176,7 +176,7 @@ libraries, but that is not necessarily the case.
 * URI (WIP: [URI](https://github.com/ihrd/uri/))
 * Email
   + POP3 (WIP: [Net::POP3](https://github.com/retupmoca/P6-Net-POP3/))
-  + IMAP
+  + IMAP (WIP: [Net::IMAP](https://github.com/retupmoca/P6-Net-IMAP/))
   + SMTP (WIP: [Net::SMTP](https://github.com/retupmoca/P6-Net-SMTP/))
   + Email::Sender
 * HTTP
