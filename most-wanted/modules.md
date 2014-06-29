@@ -61,8 +61,8 @@ libraries, but that is not necessarily the case.
   + HTML
   + CSS
   +   - parse
-  +     - (OPEN: CSS::Lite](http://jnthn.github.io/css-tiny-presentation/presentation/#/))
-  +     - (WIP: CSS::Grammar](https://github.com/p6-css/perl6-CSS-Grammar)
+  +     - (OPEN: [CSS::Lite](http://jnthn.github.io/css-tiny-presentation/presentation/#/))
+  +     - (WIP: [CSS::Grammar](https://github.com/p6-css/perl6-CSS-Grammar))
   + SVG (WIP: [SVG](https://github.com/moritz/svg/))
 * Documents
   + Pod::* (some functionality handled internally, but lots to fill in)
