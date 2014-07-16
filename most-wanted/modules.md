@@ -40,7 +40,7 @@ libraries, but that is not necessarily the case.
 ## Data formats
 
 * Archives
-  + Tar
+  + Tar (WIP: [Archive::Tar](https://github.com/FROGGS/p6-Archive-Tar))
   + ZIP
 * Delimited Text
   + CSV (WIP: [Text::CSV](https://github.com/masak/csv/)), [CSV::Parser](https://github.com/tony-o/perl6-csv-parser)
