@@ -183,7 +183,7 @@ libraries, but that is not necessarily the case.
   + SMTP (WIP: [Net::SMTP](https://github.com/retupmoca/P6-Net-SMTP/))
   + Email::Sender
 * HTTP
-  + LWP or modern equivalent (Mojo::*?)
+  + LWP or modern equivalent (Mojo::*?) (WIP: [HTTP::UserAgent](https://github.com/sergot/http-useragent/))
     - LWP::Simple (WIP: [LWP::Simple](https://github.com/cosimo/perl6-lwp-simple/))
     - HTTP::Client (WIP: [HTTP::Client](https://github.com/supernovus/perl6-http-client/))
     - Curl (WIP: [Net::Curl](https://github.com/azawawi/perl6-net-curl/))
