@@ -68,6 +68,7 @@ libraries, but that is not necessarily the case.
   + Pod::* (some functionality handled internally, but lots to fill in)
     - perldoc (WIP: [p6doc](https://github.com/perl6/doc/))
     - Pod::To::HTML (WIP: [Pod::To::HTML](https://github.com/perl6/Pod-To-HTML/))
+    - HTML documentation generator like [htmlify.p6](https://github.com/perl6/doc/blob/master/htmlify.p6) 
   + Markdown (WIP: [Text::Markdown](https://github.com/masak/markdown/))
   + PDF
 * File metadata
