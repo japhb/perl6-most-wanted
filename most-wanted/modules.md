@@ -51,14 +51,14 @@ libraries, but that is not necessarily the case.
   + XML
     - parse 
       - (WIP: [XML::Parser::Tiny](https://github.com/afiskon/p6-xml-parser-tiny/))
-      - (WIP: [HTML::Parser::XML](https://github.com/tony-o/perl6-html-parser-xml))
+      - ([HTML::Parser::XML](https://github.com/tony-o/perl6-html-parser-xml))
     - emit (WIP: [XML::Writer](https://github.com/masak/xml-writer/))
     - full (WIP: [XML](https://github.com/supernovus/exemel/))
   + YAML (WIP: [YAML](https://github.com/ingydotnet/yaml-pm6/))
 * Binary interchange of structured data
   + BSON (WIP: [BSON](https://github.com/bbkr/BSON/))
 * Web markup
-  + HTML
+  + HTML ([HTML::Parser::XML](https://github.com/tony-o/perl6-html-parser-xml))
   + CSS
     - parse
       - (OPEN: [CSS::Tiny](http://jnthn.github.io/css-tiny-presentation/presentation/#/))
