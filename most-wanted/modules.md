@@ -1,5 +1,5 @@
 # Most Wanted Modules
-
+r
 These are the most-wanted pure Perl 6 modules (as opposed to
 [native library bindings](bindings.md)).  These may be direct ports of Perl 5
 libraries, but that is not necessarily the case.
@@ -15,7 +15,7 @@ libraries, but that is not necessarily the case.
 
 * INI (WIP: [Config::INI](https://github.com/tadzik/perl6-Config-INI/))
 * GitLike
-* Netrcc
+* Netrc
 
 
 ## Cryptography and security
@@ -60,9 +60,11 @@ libraries, but that is not necessarily the case.
 * Web markup
   + HTML ([HTML::Parser::XML](https://github.com/tony-o/perl6-html-parser-xml))
   + CSS
+    - minimal (OPEN: [CSS::Tiny](http://jnthn.github.io/css-tiny-presentation/presentation/#/))
     - parse
-      - (OPEN: [CSS::Tiny](http://jnthn.github.io/css-tiny-presentation/presentation/#/))
       - (WIP: [CSS::Grammar](https://github.com/p6-css/perl6-CSS-Grammar))
+    - emit
+      - (WIP: [CSS::Writer](https://github.com/p6-css/perl6-CSS-Writer))
   + SVG (WIP: [SVG](https://github.com/moritz/svg/))
 * Documents
   + Pod::* (some functionality handled internally, but lots to fill in)
