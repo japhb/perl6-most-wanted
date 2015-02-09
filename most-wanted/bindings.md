@@ -56,3 +56,4 @@ better spent on [other most-wanted tasks](README-wanted.md).
   + Libxml2
   + Libxslt
 * GeoIP (WIP: [GeoIP](https://github.com/bbkr/GeoIPerl6))
+* [libgit2](https://libgit2.github.com/)
