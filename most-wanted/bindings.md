@@ -26,7 +26,7 @@ better spent on [other most-wanted tasks](README-wanted.md).
 
 ## Image processing
 
-* Canvas and/or GD (WIP: [GD](https://github.com/mrhdias/perl6-GD/))
+* Canvas and/or GD (WIP: [GD](https://github.com/mrhdias/perl6-GD/), [Cairo](https://github.com/timo/cairo-p6))
 * Charting/Graphing
 * ImageMagick or similar
 
@@ -46,7 +46,7 @@ better spent on [other most-wanted tasks](README-wanted.md).
   + Qt
   + Gtk (WIP: [GTK::Simple](https://github.com/perl6/gtk-simple/))
 * 2D Graphics
-  + SDL (WIP: [SDL](https://github.com/PerlGameDev/SDL6/))
+  + SDL (WIP: [SDL](https://github.com/PerlGameDev/SDL6/), [SDL2](https:/github.com/timo/SDL2_raw-p6))
 * 3D Graphics
   + OpenGL
 
