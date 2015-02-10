@@ -75,7 +75,7 @@ libraries, but that is not necessarily the case.
   + PDF
 * File metadata
   + Image::Exiftool
-  + MP3 tags
+  + MP3 tags (as native bindings to taglib, WIP: [Audio::Taglib::Simple](https://github.com/avuserow/perl6-audio-taglib-simple/))
 * Email
   + Email::Simple (WIP: [Email::Simple](https://github.com/retupmoca/p6-Email-Simple/))
   + MIME (WIP: [Email::MIME](https://github.com/retupmoca/p6-Email-MIME/))
@@ -100,6 +100,7 @@ libraries, but that is not necessarily the case.
 * NoSQL
   + MongoDB (WIP: [MongoDB](https://github.com/bbkr/mongo-perl6-driver/))
   + Memcached (WIP: [Cache::Memcached](https://github.com/cosimo/perl6-cache-memcached/))
+* CHI, Cache::Cache, or similar
 
 
 ## Development
@@ -133,9 +134,12 @@ libraries, but that is not necessarily the case.
   + Dist::Zilla
   + CPAN::Uploader
 * License management
-  + Software::License/App::Software::License
+  + Software::License/App::Software::License ([WIP](https://github.com/sillymoose/Software-License/))
 * Source management
   + Git::Wrapper
+* Deployment
+  + Carton
+  + cpanfile
 
 
 ## Filesystems
@@ -185,6 +189,7 @@ libraries, but that is not necessarily the case.
   + IMAP (WIP: [Net::IMAP](https://github.com/retupmoca/P6-Net-IMAP/))
   + SMTP (WIP: [Net::SMTP](https://github.com/retupmoca/P6-Net-SMTP/))
   + Email::Sender
+  + Email::Valid
 * HTTP
   + LWP or modern equivalent (Mojo::*?) (WIP: [HTTP::UserAgent](https://github.com/sergot/http-useragent/))
     - LWP::Simple (WIP: [LWP::Simple](https://github.com/cosimo/perl6-lwp-simple/))
@@ -195,6 +200,7 @@ libraries, but that is not necessarily the case.
     - Status (WIP: [HTTP::Status](https://github.com/supernovus/perl6-http-status/))
   + Plack/Task::Plack
   + Mechanize
+  + Selenium
   + RobotUA?
 * RPC
   + JSON-RPC (WIP: [JSON::RPC](https://github.com/bbkr/jsonrpc/))
