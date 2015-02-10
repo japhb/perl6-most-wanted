@@ -33,7 +33,7 @@ better spent on [other most-wanted tasks](README-wanted.md).
 
 ## Security
 
-* openssl (WIP: [SSL](https://github.com/grondilu/openssl/))
+* openssl (WIP: [SSL](https://github.com/grondilu/openssl/), [OpenSSL](https://github.com/sergot/openssl/))
 * ssh
 
 
@@ -44,7 +44,7 @@ better spent on [other most-wanted tasks](README-wanted.md).
   + readline
 * GUI
   + Qt
-  + Gtk
+  + Gtk (WIP: [GTK::Simple](https://github.com/perl6/gtk-simple/))
 * 2D Graphics
   + SDL (WIP: [SDL](https://github.com/PerlGameDev/SDL6/))
 * 3D Graphics
