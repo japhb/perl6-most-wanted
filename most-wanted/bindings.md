@@ -19,9 +19,9 @@ better spent on [other most-wanted tasks](README-wanted.md).
 ## Databases
 
 * DBD::
-  + MySQL
-  + Postgres
-  + SQLite
+  + MySQL (TODO: proper placeholder / prepared statements)
+  + Postgres (TODO: binary data, casting to appropriate types)
+  + SQLite (done)
 
 
 ## Image processing
