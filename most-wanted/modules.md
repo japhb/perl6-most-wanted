@@ -300,3 +300,11 @@ libraries, but that is not necessarily the case.
 * ExtUtils::Command or Shell::Command (WIP: [File-Tools](https://github.com/tadzik/perl6-File-Tools/))
 * App::Ack
 * Email::Filter
+
+## Numerical
+
+* Geo::Ellipsoid
+* Math::Trig
+* Scalar::Util
+* Test::Number::Delta
+* Test::Simple
