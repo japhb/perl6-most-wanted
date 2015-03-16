@@ -304,7 +304,4 @@ libraries, but that is not necessarily the case.
 ## Numerical
 
 * Geo::Ellipsoid
-* Math::Trig
-* Scalar::Util
-* Test::Number::Delta
-* Test::Simple
+* Math::Trig (other than functions now in the Perl 6 core)
