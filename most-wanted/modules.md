@@ -224,7 +224,7 @@ libraries, but that is not necessarily the case.
 
 ## Numerical
 
-* Geo::Ellipsoid
+* Geo::Ellipsoid (WIP: [https://github.com/tadzik/Template-Mojo/])
 * Math::Trig (other than functions now in the Perl 6 core)
 
 
