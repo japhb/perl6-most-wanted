@@ -222,6 +222,12 @@ libraries, but that is not necessarily the case.
   + Mozilla::CA
 
 
+## Numerical
+
+* Geo::Ellipsoid (WIP: [Geo::Ellipsoid](https://github.com/tadzik/Template-Mojo/))
+* Math::Trig (other than functions now in the Perl 6 core)
+
+
 ## Text processing
 
 * Templating
@@ -259,6 +265,7 @@ libraries, but that is not necessarily the case.
   + Test::Requires
   + Test::Spelling
   + Test::NoTabs
+  + Test::Number::Delta
 * Simulation
   + Test::Without::Module
   + Test::Mock (WIP: [Test::Mock](https://github.com/jnthn/test-mock/))
@@ -300,8 +307,3 @@ libraries, but that is not necessarily the case.
 * ExtUtils::Command or Shell::Command (WIP: [File-Tools](https://github.com/tadzik/perl6-File-Tools/))
 * App::Ack
 * Email::Filter
-
-## Numerical
-
-* Geo::Ellipsoid
-* Math::Trig (other than functions now in the Perl 6 core)
