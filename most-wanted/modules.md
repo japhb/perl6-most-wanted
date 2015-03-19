@@ -265,6 +265,7 @@ libraries, but that is not necessarily the case.
   + Test::Requires
   + Test::Spelling
   + Test::NoTabs
+  + Test::Number::Delta
 * Simulation
   + Test::Without::Module
   + Test::Mock (WIP: [Test::Mock](https://github.com/jnthn/test-mock/))
