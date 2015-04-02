@@ -224,7 +224,7 @@ libraries, but that is not necessarily the case.
 
 ## Numerical
 
-* Geo::Ellipsoid (WIP: [Geo::Ellipsoid](https://github.com/tadzik/Template-Mojo/))
+* Geo::Ellipsoid (WIP: [Geo::Ellipsoid](https://github.com/tbrowder/Geo-Ellipsoid-perl6/))
 * Math::Trig (other than functions now in the Perl 6 core)
 
 
@@ -265,7 +265,7 @@ libraries, but that is not necessarily the case.
   + Test::Requires
   + Test::Spelling
   + Test::NoTabs
-  + Test::Number::Delta
+  + Test::Number::Delta (WIP: [Test::Number::Delta](https://github.com/tbrowder/Test-Number-Delta-perl6/))
 * Simulation
   + Test::Without::Module
   + Test::Mock (WIP: [Test::Mock](https://github.com/jnthn/test-mock/))
