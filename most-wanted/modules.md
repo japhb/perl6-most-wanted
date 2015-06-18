@@ -136,7 +136,7 @@ libraries, but that is not necessarily the case.
 * License management
   + Software::License/App::Software::License ([WIP](https://github.com/sillymoose/Software-License/))
 * Source management
-  + Git::Wrapper
+  + Git::Wrapper ([WIP](https://github.com/perlpilot/p6-Git-Wrapper))
 * Deployment
   + Carton
   + cpanfile
