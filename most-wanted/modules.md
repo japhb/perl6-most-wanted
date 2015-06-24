@@ -171,6 +171,7 @@ libraries, but that is not necessarily the case.
 * IPC::Cmd
 * App::Whiff
 * IO::Capture (WIP: [IO::Capture::Simple](https://github.com/sergot/IO-Capture-Simple/))
+* DBus via [sd-bus](http://0pointer.net/blog/the-new-sd-bus-api-of-systemd.html)
 
 
 ## Logging
