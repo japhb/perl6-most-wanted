@@ -155,6 +155,7 @@ libraries, but that is not necessarily the case.
 * Unicode::Collate?
 * Unicode::UCD?
 * Unicode::Tussle?
+* Unicode::LineBreak?
 * Encodings/charsets other than builtin UTF-8/Unicode
 * Maketext
 * Locales? (WIP: [CLDR::List](https://github.com/perl-cldr/cldr-list-pm6/))
