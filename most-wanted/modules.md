@@ -227,7 +227,7 @@ libraries, but that is not necessarily the case.
 ## Numerical
 
 * Geo::Ellipsoid (WIP: [Geo::Ellipsoid](https://github.com/tbrowder/Geo-Ellipsoid-perl6))
-* Math::Trig (other than functions now in the Perl 6 core)
+* Math::Trig (other than functions now in the Perl 6 core) (WIP: [Math::Trig](https://github.com/elohmrow/Math-Trig))
 
 
 ## Text processing
