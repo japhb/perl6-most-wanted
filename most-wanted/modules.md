@@ -302,6 +302,8 @@ libraries, but that is not necessarily the case.
 * Plotting/Charting/Graphing
   + SVG::Plot (WIP: [SVG::Plot](https://github.com/moritz/svg-plot/))
   + Chart::Clicker
+* GUI
+  + WxWidgets
 
 
 ## Utilities
