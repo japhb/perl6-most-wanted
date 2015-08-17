@@ -28,7 +28,7 @@ libraries, but that is not necessarily the case.
   + GPG
   + Block cyphers
     - DES
-    - AES
+    - AES (WIP:[OpenSSL::CryptoTools](https://github.com/sergot/openssl))
     - Blowfish
     - Twofish
   + Full set of block cypher modes
