@@ -200,7 +200,7 @@ libraries, but that is not necessarily the case.
   + PSGI (WIP: [HTTP::Easy](https://github.com/supernovus/perl6-http-easy/), [HTTP::Server::Simple](https://github.com/mberends/http-server-simple/))
   + Misc
     - Status (WIP: [HTTP::Status](https://github.com/supernovus/perl6-http-status/))
-  + Plack/Task::Plack
+  + Plack/Task::Plack (WIP: [Crust](https://github.com/tokuhirom/p6-Crust/))
   + Mechanize
   + Selenium
   + RobotUA?
