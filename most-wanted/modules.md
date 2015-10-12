@@ -217,7 +217,6 @@ libraries, but that is not necessarily the case.
   + Ping
   + Telnet
 * Internet services
-  + App::Nopaste (backend WIP: [Pastebin::Shadowcat](https://github.com/zoffixznet/perl6-Pastebin-Shadowcat))
   + Net::GitHub::V3
   + App::ph
 * Security
