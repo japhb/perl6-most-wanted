@@ -89,7 +89,7 @@ libraries, but that is not necessarily the case.
 
 ## Data processing
 
-* Data::GUID
+* Data::GUID (WIP: [Data::GUID](https://github.com/zoffixznet/perl6-Data-GUID))
 * Data::Visitor
 
 
