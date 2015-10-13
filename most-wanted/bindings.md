@@ -53,7 +53,7 @@ better spent on [other most-wanted tasks](README-wanted.md).
 ## Other
 
 * XML
-  + Libxml2
+  + Libxml2 (WIP: [XML::LibXML](https://github.com/FROGGS/p6-XML-LibXML))
   + Libxslt
 * GeoIP (WIP: [GeoIP](https://github.com/bbkr/GeoIPerl6))
 * [libgit2](https://libgit2.github.com/)
