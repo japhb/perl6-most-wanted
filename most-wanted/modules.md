@@ -149,7 +149,9 @@ libraries, but that is not necessarily the case.
 * File::pushd
 
 
-## Internationalization
+## i18n and NLP
+
+Internationalization and Natural Language Processing
 
 * App::Uni
 * Unicode::Collate?
