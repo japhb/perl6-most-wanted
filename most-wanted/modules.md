@@ -165,6 +165,7 @@ libraries, but that is not necessarily the case.
   + language
   + script
 * Lingua::* (WIP: [Lingua::EN::Syllable](https://github.com/coke/p6-lingua-en-syllable), [Lingua::EN::Numbers::Ordinal](https://github.com/lue/Lingua--EN--Numbers--Ordinal/), [Lingua::EN::Sentence](https://github.com/dginev/perl6-Lingua-EN-Sentence/), [Lingua::Number](https://github.com/labster/p6-Lingua-Number/))
+* Lingua::Stem::*
 
 
 ## IPC

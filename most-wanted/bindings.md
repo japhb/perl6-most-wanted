@@ -57,3 +57,5 @@ better spent on [other most-wanted tasks](README-wanted.md).
   + Libxslt
 * GeoIP (WIP: [GeoIP](https://github.com/bbkr/GeoIPerl6))
 * [libgit2](https://libgit2.github.com/)
+* [ICU](http://site.icu-project.org/)
+* [Snowball](http://snowball.tartarus.org/)
