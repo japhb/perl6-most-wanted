@@ -283,8 +283,8 @@ Internationalization and Natural Language Processing
 * shared mem
 * Fcntl
 * POSIX
-* User::grent
-* User::pwent
+* User::grent (WIP: [Unix::Groups](https://github.com/jonathanstowe/Unix-Groups))
+* User::pwent (WIP: [System::Passwd](https://github.com/dnmfarrell/System-Passwd))
 * Daemonize
 
 
