@@ -205,7 +205,7 @@ Internationalization and Natural Language Processing
     - Status (WIP: [HTTP::Status](https://github.com/supernovus/perl6-http-status/))
   + Plack/Task::Plack (WIP: [Crust](https://github.com/tokuhirom/p6-Crust/))
   + Mechanize
-  + Selenium
+  + Selenium  (WIP: [Selenium::WebDriver](https://github.com/azawawi/perl6-selenium-webdriver))
   + RobotUA?
 * RPC
   + JSON-RPC (WIP: [JSON::RPC](https://github.com/bbkr/jsonrpc/))
