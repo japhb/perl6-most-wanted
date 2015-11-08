@@ -215,7 +215,7 @@ Internationalization and Natural Language Processing
   + IRC::Utils (WIP: [IRC::Utils](https://github.com/soh-cah-toa/p6-irc-utils/))
   + Net::IRC::Bot (WIP: [Net::IRC::Bot](https://github.com/TiMBuS/Net--IRC/))
 * Other protocols
-  + FTP
+  + FTP (WIP: [Net::Ftp](https://github.com/araraloren/Net-Ftp))
   + NNTP
   + Ping
   + Telnet
