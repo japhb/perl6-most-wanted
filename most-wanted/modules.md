@@ -41,7 +41,7 @@ libraries, but that is not necessarily the case.
 
 * Archives
   + Tar (WIP: [Archive::Tar](https://github.com/FROGGS/p6-Archive-Tar))
-  + ZIP
+  + ZIP (WIP: [File::Zip](https://github.com/azawawi/perl6-file-zip))
 * Delimited Text
   + CSV (WIP: [Text::CSV](https://github.com/masak/csv/)), [CSV::Parser](https://github.com/tony-o/perl6-csv-parser)
   + TSV [CSV::Parser](https://github.com/tony-o/perl6-csv-parser) #this works with TSV
@@ -89,7 +89,7 @@ libraries, but that is not necessarily the case.
 
 ## Data processing
 
-* Data::GUID (WIP: [Data::GUID](https://github.com/zoffixznet/perl6-Data-GUID))
+* Data::GUID (WIP: [Data::GUID](https://github.com/zoffixznet/perl6-Data-GUID)[stalled], [UUID](https://github.com/retupmoca/P6-UUID/))
 * Data::Visitor
 
 
@@ -207,7 +207,7 @@ Internationalization and Natural Language Processing
     - Status (WIP: [HTTP::Status](https://github.com/supernovus/perl6-http-status/))
   + Plack/Task::Plack (WIP: [Crust](https://github.com/tokuhirom/p6-Crust/))
   + Mechanize
-  + Selenium
+  + Selenium  (WIP: [Selenium::WebDriver](https://github.com/azawawi/perl6-selenium-webdriver))
   + RobotUA?
 * RPC
   + JSON-RPC (WIP: [JSON::RPC](https://github.com/bbkr/jsonrpc/))
@@ -217,7 +217,7 @@ Internationalization and Natural Language Processing
   + IRC::Utils (WIP: [IRC::Utils](https://github.com/soh-cah-toa/p6-irc-utils/))
   + Net::IRC::Bot (WIP: [Net::IRC::Bot](https://github.com/TiMBuS/Net--IRC/))
 * Other protocols
-  + FTP
+  + FTP (WIP: [Net::Ftp](https://github.com/araraloren/Net-Ftp))
   + NNTP
   + Ping
   + Telnet
