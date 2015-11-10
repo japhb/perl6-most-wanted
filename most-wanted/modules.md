@@ -100,6 +100,7 @@ libraries, but that is not necessarily the case.
 * NoSQL
   + MongoDB (WIP: [MongoDB](https://github.com/bbkr/mongo-perl6-driver/))
   + Memcached (WIP: [Cache::Memcached](https://github.com/cosimo/perl6-cache-memcached/))
+  + CouchDB (WIP: [CouchDB](https://github.com/jonathanstowe/CouchDB))
 * CHI, Cache::Cache, or similar
 
 
@@ -189,6 +190,7 @@ Internationalization and Natural Language Processing
 ## Networking
 
 * URI (WIP: [URI](https://github.com/ihrd/uri/))
+  + [URI Template](https://tools.ietf.org/html/rfc6570)
 * Email
   + POP3 (WIP: [Net::POP3](https://github.com/retupmoca/P6-Net-POP3/))
   + IMAP (WIP: [Net::IMAP](https://github.com/retupmoca/P6-Net-IMAP/))
@@ -263,7 +265,7 @@ Internationalization and Natural Language Processing
   + Test::Pretty?
 * Completeness
   + Code coverage
-  + Pod coverage
+  + Pod coverage (WIP: [POD::Coverage](https://github.com/teodozjan/pod6-coverage))
 * Specific tests
   + Test::CPAN::Meta (but for panda)
   + Test::Requires
