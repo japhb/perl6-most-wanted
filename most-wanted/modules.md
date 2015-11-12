@@ -190,7 +190,7 @@ Internationalization and Natural Language Processing
 ## Networking
 
 * URI (WIP: [URI](https://github.com/ihrd/uri/))
-  + [URI Template](https://tools.ietf.org/html/rfc6570)
+  + [URI Template](https://tools.ietf.org/html/rfc6570) (WIP: [URI::Template](https://github.com/jonathanstowe/URI-Template))
 * Email
   + POP3 (WIP: [Net::POP3](https://github.com/retupmoca/P6-Net-POP3/))
   + IMAP (WIP: [Net::IMAP](https://github.com/retupmoca/P6-Net-IMAP/))
