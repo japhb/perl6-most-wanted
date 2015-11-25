@@ -24,6 +24,7 @@ libraries, but that is not necessarily the case.
   + CRC32 (WIP: [String::CRC32](https://github.com/cosimo/perl6-string-crc32/))
   + MD5 (WIP: [Digest::MD5](https://github.com/cosimo/perl6-digest-md5/))
   + SHA* (WIP: [Digest::SHA256](https://github.com/soh-cah-toa/p6-digest-sha256/), [Digest](https://github.com/grondilu/libdigest-perl6))
+  + RC4 (WIP: [Crypt::RC4](https://github.com/p6-pdf/perl6-Crypt-RC4))
 * Crypto
   + GPG
   + Block cyphers
@@ -72,7 +73,7 @@ libraries, but that is not necessarily the case.
     - Pod::To::HTML (WIP: [Pod::To::HTML](https://github.com/perl6/Pod-To-HTML/))
     - HTML documentation generator like [htmlify.p6](https://github.com/perl6/doc/blob/master/htmlify.p6) 
   + Markdown (WIP: [Text::Markdown](https://github.com/masak/markdown/))
-  + PDF
+  + PDF (WIP: [PDF-Tools](https://github.com/p6-pdf/perl6-PDF-Tools)) (WIP: [PDF::Grammar](https://github.com/p6-pdf/perl6-PDF-Grammar))
 * File metadata
   + Image::Exiftool
   + MP3 tags (as native bindings to taglib, WIP: [Audio::Taglib::Simple](https://github.com/avuserow/perl6-audio-taglib-simple/))
