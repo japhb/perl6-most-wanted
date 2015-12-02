@@ -197,7 +197,7 @@ Internationalization and Natural Language Processing
   + IMAP (WIP: [Net::IMAP](https://github.com/retupmoca/P6-Net-IMAP/))
   + SMTP (WIP: [Net::SMTP](https://github.com/retupmoca/P6-Net-SMTP/))
   + Email::Sender
-  + Email::Valid
+  + Email::Valid (WIP: [Email::Valid](https://github.com/Demayl/perl6-Email-Valid))
 * HTTP
   + LWP or modern equivalent (Mojo::*?) (WIP: [HTTP::UserAgent](https://github.com/sergot/http-useragent/))
     - LWP::Simple (WIP: [LWP::Simple](https://github.com/cosimo/perl6-lwp-simple/))
