@@ -34,7 +34,7 @@ libraries, but that is not necessarily the case.
     - Twofish
   + Full set of block cypher modes
 * RNG
-  + MT (Mersenne Twister)
+  + MT (Mersenne Twister) (WIP: [Math::Random](https://github.com/bluebear94/Math-Random))
   + TrulyRandom (portable access to OS-provided truly random sources)
 
 
@@ -50,7 +50,7 @@ libraries, but that is not necessarily the case.
   + JSON (WIP: [JSON::Tiny](https://github.com/moritz/json/))
     - JSONPath (WIP: [JSON::Path](https://github.com/jnthn/json-path/))
   + XML
-    - parse 
+    - parse
       - (WIP: [XML::Parser::Tiny](https://github.com/afiskon/p6-xml-parser-tiny/))
       - ([HTML::Parser::XML](https://github.com/tony-o/perl6-html-parser-xml))
     - emit (WIP: [XML::Writer](https://github.com/masak/xml-writer/))
@@ -71,7 +71,7 @@ libraries, but that is not necessarily the case.
   + Pod::* (some functionality handled internally, but lots to fill in)
     - perldoc (WIP: [p6doc](https://github.com/perl6/doc/))
     - Pod::To::HTML (WIP: [Pod::To::HTML](https://github.com/perl6/Pod-To-HTML/))
-    - HTML documentation generator like [htmlify.p6](https://github.com/perl6/doc/blob/master/htmlify.p6) 
+    - HTML documentation generator like [htmlify.p6](https://github.com/perl6/doc/blob/master/htmlify.p6)
   + Markdown (WIP: [Text::Markdown](https://github.com/masak/markdown/))
   + PDF (WIP: [PDF-Tools](https://github.com/p6-pdf/perl6-PDF-Tools)) (WIP: [PDF::Grammar](https://github.com/p6-pdf/perl6-PDF-Grammar))
 * File metadata
@@ -199,7 +199,7 @@ Internationalization and Natural Language Processing
   + Email::Sender
   + Email::Valid
 * HTTP
-  + LWP or modern equivalent (Mojo::*?) (WIP: [HTTP::UserAgent](https://github.com/sergot/http-useragent/))
+  + LWP or modern equivalent (Mojo::\*?) (WIP: [HTTP::UserAgent](https://github.com/sergot/http-useragent/))
     - LWP::Simple (WIP: [LWP::Simple](https://github.com/cosimo/perl6-lwp-simple/))
     - HTTP::Client (WIP: [HTTP::Client](https://github.com/supernovus/perl6-http-client/))
     - Curl (WIP: [Net::Curl](https://github.com/azawawi/perl6-net-curl/))
@@ -304,6 +304,7 @@ Internationalization and Natural Language Processing
   + Term::ReadLine
   + App::Ttyrec?
   + App::Termcast?
+  + Term::KBD
 * Plotting/Charting/Graphing
   + SVG::Plot (WIP: [SVG::Plot](https://github.com/moritz/svg-plot/))
   + Chart::Clicker
