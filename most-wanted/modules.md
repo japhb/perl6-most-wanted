@@ -297,7 +297,6 @@ Internationalization and Natural Language Processing
   + Term::ProgressBar (WIP: [Term::ProgressBar](https://github.com/sergot/Term--ProgressBar/))
   + Term::UI?
 * Terminal
-  + Term::ANSIColor (WIP: [Term::ANSIColor](https://github.com/tadzik/perl6-Term-ANSIColor/))
   + Term::Cap  (WIP: [Term::Cap](https://github.com/jonathanstowe/p6-Term-Cap))
   + Term::Complete
   + Term::ReadLine
