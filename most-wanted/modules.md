@@ -267,7 +267,7 @@ Internationalization and Natural Language Processing
   + Code coverage
   + Pod coverage (WIP: [POD::Coverage](https://github.com/teodozjan/pod6-coverage))
 * Specific tests
-  + Test::CPAN::Meta (but for panda)
+  + Test::CPAN::Meta (WIP: [Test::META](https://github.com/jonathanstowe/Test-META))
   + Test::Requires
   + Test::Spelling
   + Test::NoTabs
