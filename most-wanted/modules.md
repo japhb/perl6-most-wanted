@@ -47,8 +47,6 @@ libraries, but that is not necessarily the case.
   + CSV (WIP: [Text::CSV](https://github.com/masak/csv/)), [CSV::Parser](https://github.com/tony-o/perl6-csv-parser)
   + TSV [CSV::Parser](https://github.com/tony-o/perl6-csv-parser) #this works with TSV
 * Textual interchange of structured data
-  + JSON (WIP: [JSON::Tiny](https://github.com/moritz/json/))
-    - JSONPath (WIP: [JSON::Path](https://github.com/jnthn/json-path/))
   + XML
     - parse
       - (WIP: [XML::Parser::Tiny](https://github.com/afiskon/p6-xml-parser-tiny/))
