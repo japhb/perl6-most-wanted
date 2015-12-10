@@ -2,8 +2,9 @@
 
 [Lists](most-wanted/README-wanted.md) of most wanted
 [core features](most-wanted/features.md),
-[native library bindings](most-wanted/bindings.md), and
-[modules](most-wanted/modules.md) for Perl 6, along with the
+[native library bindings](most-wanted/bindings.md),
+[modules](most-wanted/modules.md) and
+[documentation and tutorials](most-wanted/documentation.md) for Perl 6, along with the
 [research](data-sources/README-sources.md) that helped us select them.
 
 
