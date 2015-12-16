@@ -54,6 +54,8 @@ libraries, but that is not necessarily the case.
     - emit (WIP: [XML::Writer](https://github.com/masak/xml-writer/))
     - full (WIP: [XML](https://github.com/supernovus/exemel/))
   + YAML (WIP: [YAML](https://github.com/ingydotnet/yaml-pm6/))
+  + LDIF
+      - Net::LDAP port
 * Binary interchange of structured data
   + BSON (WIP: [BSON](https://github.com/bbkr/BSON/))
 * Web markup
@@ -101,6 +103,8 @@ libraries, but that is not necessarily the case.
   + Memcached (WIP: [Cache::Memcached](https://github.com/cosimo/perl6-cache-memcached/))
   + CouchDB (WIP: [CouchDB](https://github.com/jonathanstowe/CouchDB))
 * CHI, Cache::Cache, or similar
+* LDAP
+  + Net::LDAP port?
 
 
 ## Development
