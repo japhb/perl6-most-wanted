@@ -91,7 +91,8 @@ libraries, but that is not necessarily the case.
 ## Data processing
 
 * Data::GUID (WIP: [UUID](https://github.com/retupmoca/P6-UUID/))
-* Data::Visitor
+* Data::Visito
+* Deep::Clone
 
 
 ## Databases
