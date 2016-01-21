@@ -42,7 +42,7 @@ libraries, but that is not necessarily the case.
 
 * Archives
   + Tar (WIP: [Archive::Tar](https://github.com/FROGGS/p6-Archive-Tar))
-  + ZIP (WIP: [File::Zip](https://github.com/azawawi/perl6-file-zip), [Arvhive::SimpleZip](https://github.com/pmqs/Arvhive-SimpleZip))
+  + ZIP (WIP: [File::Zip](https://github.com/azawawi/perl6-file-zip), [Archive::SimpleZip](https://github.com/pmqs/Archive-SimpleZip))
 * Delimited Text
   + CSV (WIP: [Text::CSV](https://github.com/masak/csv/)), [CSV::Parser](https://github.com/tony-o/perl6-csv-parser)
   + TSV [CSV::Parser](https://github.com/tony-o/perl6-csv-parser) #this works with TSV
