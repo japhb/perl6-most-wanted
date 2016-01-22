@@ -102,7 +102,7 @@ libraries, but that is not necessarily the case.
 * NoSQL
   + MongoDB (WIP: [MongoDB](https://github.com/bbkr/mongo-perl6-driver/))
   + Memcached (WIP: [Cache::Memcached](https://github.com/cosimo/perl6-cache-memcached/))
-  + CouchDB (WIP: [CouchDB](https://github.com/jonathanstowe/CouchDB))
+  + CouchDB (WIP: [Sofa](https://github.com/jonathanstowe/Sofa))
 * CHI, Cache::Cache, or similar
 * LDAP
   + Net::LDAP port?
