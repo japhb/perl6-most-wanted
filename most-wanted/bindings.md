@@ -12,7 +12,7 @@ better spent on [other most-wanted tasks](README-wanted.md).
 ## Archives and Compression
 
 * zlib (WIP: [Compress::Zlib](https://github.com/retupmoca/P6-Compress-Zlib/))
-* bzip2
+* bzip2 ([Compress::Bzip2](https://github.com/Altai-man/perl6-Compress-Bzip2))
 * 7zip (7z.so/lib7zip)
 
 
@@ -28,7 +28,7 @@ better spent on [other most-wanted tasks](README-wanted.md).
 
 * Canvas and/or GD (WIP: [GD](https://github.com/mrhdias/perl6-GD/), [Cairo](https://github.com/timo/cairo-p6))
 * Charting/Graphing
-* ImageMagick or similar
+* ImageMagick or similar (WIP: [MagickWand](https://github.com/azawawi/perl6-magickwand))
 
 
 ## i18n and NLP
@@ -49,7 +49,7 @@ Internationalization and Natural Language Processing
 
 * Terminal
   + curses (WIP: [NCurses](https://github.com/azawawi/perl6-ncurses/))
-  + readline
+  + readline (WIP: [Readline](https://github.com/drforr/perl6-readline))
 * GUI
   + Qt
   + Gtk (WIP: [GTK::Simple](https://github.com/perl6/gtk-simple/))
