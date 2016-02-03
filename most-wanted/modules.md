@@ -186,7 +186,6 @@ Internationalization and Natural Language Processing
 ## Logging
 
 * pluggable logging
-  + syslog (WIP: [Log::Syslog::Native](https://github.com/jonathanstowe/Log-Syslog-Native))
   + Windows logging
   + file/handle
 
@@ -194,7 +193,6 @@ Internationalization and Natural Language Processing
 ## Networking
 
 * URI (WIP: [URI](https://github.com/ihrd/uri/))
-  + [URI Template](https://tools.ietf.org/html/rfc6570) (WIP: [URI::Template](https://github.com/jonathanstowe/URI-Template))
 * Email
   + POP3 (WIP: [Net::POP3](https://github.com/retupmoca/P6-Net-POP3/))
   + IMAP (WIP: [Net::IMAP](https://github.com/retupmoca/P6-Net-IMAP/))
@@ -272,7 +270,6 @@ Internationalization and Natural Language Processing
   + Code coverage
   + Pod coverage (WIP: [POD::Coverage](https://github.com/teodozjan/pod6-coverage))
 * Specific tests
-  + Test::CPAN::Meta (WIP: [Test::META](https://github.com/jonathanstowe/Test-META))
   + Test::Requires
   + Test::Spelling
   + Test::NoTabs
@@ -290,7 +287,6 @@ Internationalization and Natural Language Processing
 * shared mem
 * Fcntl
 * POSIX
-* User::grent (WIP: [Unix::Groups](https://github.com/jonathanstowe/Unix-Groups))
 * User::pwent (WIP: [System::Passwd](https://github.com/dnmfarrell/System-Passwd))
 * Daemonize
 
