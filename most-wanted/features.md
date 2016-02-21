@@ -12,11 +12,6 @@ needed for everyday programming tasks.
 * Diamond role composition
 
 
-## Misc OS support
-
-* Proper signal handling
-
-
 ## Performance and scalability
 
 * Good base performance (at least not much slower than Perl 5)
