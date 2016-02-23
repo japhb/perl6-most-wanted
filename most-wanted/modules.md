@@ -212,6 +212,7 @@ Internationalization and Natural Language Processing
   + Mechanize
   + Selenium  (WIP: [Selenium::WebDriver](https://github.com/azawawi/perl6-selenium-webdriver))
   + RobotUA?
+  + OAuth
 * RPC
   + JSON-RPC (WIP: [JSON::RPC](https://github.com/bbkr/jsonrpc/))
   + SOAP
