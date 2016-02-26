@@ -36,7 +36,7 @@ better spent on [other most-wanted tasks](README-wanted.md).
 Internationalization and Natural Language Processing
 
 * [ICU](http://site.icu-project.org/)
-* [Snowball](http://snowball.tartarus.org/)
+* [Snowball](http://snowball.tartarus.org/) (WIP: [perl6-snowball](https://github.com/Sufrostico/perl6-snowball) )
 
 
 ## Security
