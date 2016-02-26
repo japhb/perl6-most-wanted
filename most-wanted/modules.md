@@ -35,7 +35,7 @@ libraries, but that is not necessarily the case.
   + Full set of block cypher modes
 * RNG
   + MT (Mersenne Twister) (WIP: [Math::Random](https://github.com/bluebear94/Math-Random))
-  + TrulyRandom (portable access to OS-provided truly random sources)
+  + TrulyRandom (portable access to OS-provided truly random sources) (WIP: [Math::TrulyRandom](https://github.com/sevvie/math-trulyrandom))
 
 
 ## Data formats
