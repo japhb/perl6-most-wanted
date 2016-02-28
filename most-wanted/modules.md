@@ -17,6 +17,9 @@ libraries, but that is not necessarily the case.
 * GitLike
 * Netrc
 
+## Core
+
+* memoize
 
 ## Cryptography and security
 
@@ -275,7 +278,7 @@ Internationalization and Natural Language Processing
   + Test::Requires
   + Test::Spelling
   + Test::NoTabs
-  + Test::Number::Delta
+  + Test::Number::Delta (WIP: [Test::Number::Delta](https://github.com/tbrowder/Test-Number-Delta-perl6/))
 * Simulation
   + Test::Without::Module
   + Test::Mock (WIP: [Test::Mock](https://github.com/jnthn/test-mock/))
