@@ -17,6 +17,9 @@ libraries, but that is not necessarily the case.
 * GitLike
 * Netrc
 
+## Core
+
+* memoize
 
 ## Cryptography and security
 
