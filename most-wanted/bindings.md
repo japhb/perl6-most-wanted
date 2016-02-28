@@ -12,7 +12,7 @@ better spent on [other most-wanted tasks](README-wanted.md).
 ## Archives and Compression
 
 * zlib (WIP: [Compress::Zlib](https://github.com/retupmoca/P6-Compress-Zlib/))
-* bzip2
+* bzip2 ([Compress::Bzip2](https://github.com/Altai-man/perl6-Compress-Bzip2))
 * 7zip (7z.so/lib7zip)
 
 
@@ -28,7 +28,15 @@ better spent on [other most-wanted tasks](README-wanted.md).
 
 * Canvas and/or GD (WIP: [GD](https://github.com/mrhdias/perl6-GD/), [Cairo](https://github.com/timo/cairo-p6))
 * Charting/Graphing
-* ImageMagick or similar
+* ImageMagick or similar (WIP: [MagickWand](https://github.com/azawawi/perl6-magickwand))
+
+
+## i18n and NLP
+
+Internationalization and Natural Language Processing
+
+* [ICU](http://site.icu-project.org/)
+* [Snowball](http://snowball.tartarus.org/) (WIP: [perl6-snowball](https://github.com/Sufrostico/perl6-snowball) )
 
 
 ## Security
@@ -41,7 +49,7 @@ better spent on [other most-wanted tasks](README-wanted.md).
 
 * Terminal
   + curses (WIP: [NCurses](https://github.com/azawawi/perl6-ncurses/))
-  + readline
+  + readline (WIP: [Readline](https://github.com/drforr/perl6-readline))
 * GUI
   + Qt
   + Gtk (WIP: [GTK::Simple](https://github.com/perl6/gtk-simple/))
@@ -53,7 +61,7 @@ better spent on [other most-wanted tasks](README-wanted.md).
 ## Other
 
 * XML
-  + Libxml2
+  + Libxml2 (WIP: [XML::LibXML](https://github.com/FROGGS/p6-XML-LibXML))
   + Libxslt
 * GeoIP (WIP: [GeoIP](https://github.com/bbkr/GeoIPerl6))
 * [libgit2](https://libgit2.github.com/)
