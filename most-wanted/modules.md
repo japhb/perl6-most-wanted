@@ -19,7 +19,7 @@ libraries, but that is not necessarily the case.
 
 ## Core
 
-* memoize
+* memoize (WIP: [Memoize](https://github.com/azawawi/perl6-memoize/))
 
 ## Cryptography and security
 
