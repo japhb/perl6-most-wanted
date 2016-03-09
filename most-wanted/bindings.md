@@ -65,3 +65,4 @@ Internationalization and Natural Language Processing
   + Libxslt
 * GeoIP (WIP: [GeoIP](https://github.com/bbkr/GeoIPerl6))
 * [libgit2](https://libgit2.github.com/)
+* spidev (similarly to [py-spidev](https://github.com/doceme/py-spidev))
