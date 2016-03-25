@@ -154,7 +154,7 @@ libraries, but that is not necessarily the case.
 
 * File::Find (WIP: [File-Tools](https://github.com/tadzik/perl6-File-Tools/))
 * File::Spec (WIP: [File::Spec](https://github.com/FROGGS/p6-File-Spec/))
-* File::pushd
+* File::pushd (WIP: [File::pushd)(https://github.com/Emeric54/File-pushd))
 
 
 ## i18n and NLP
