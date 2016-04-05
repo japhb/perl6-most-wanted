@@ -231,6 +231,7 @@ Internationalization and Natural Language Processing
 * Internet services
   + Net::GitHub::V3
   + App::ph
+  + Twitter (WIP: [Twitter](https://github.com/zoffixznet/perl6-twitter))
 * Security
   + Mozilla::CA
 
