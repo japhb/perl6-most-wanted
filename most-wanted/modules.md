@@ -223,7 +223,6 @@ Internationalization and Natural Language Processing
 * IRC
   + IRC::Utils (WIP: [IRC::Utils](https://github.com/soh-cah-toa/p6-irc-utils/))
   + Net::IRC::Bot (WIP: [Net::IRC::Bot](https://github.com/TiMBuS/Net--IRC/))
-  + IRC::Client (WIP: [IRC::Client](https://github.com/zoffixznet/perl6-IRC-Client))
 * Other protocols
   + FTP (WIP: [Net::Ftp](https://github.com/araraloren/Net-Ftp))
   + NNTP
