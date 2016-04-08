@@ -317,6 +317,6 @@ Internationalization and Natural Language Processing
 
 ## Utilities
 
-* ExtUtils::Command or Shell::Command (WIP: [File-Tools](https://github.com/tadzik/perl6-File-Tools/))
+* ExtUtils::Command or Shell::Command (WIP: [Shell::Command](https://github.com/tadzik/Shell-Command/))
 * App::Ack
 * Email::Filter
