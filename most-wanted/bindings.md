@@ -31,13 +31,21 @@ better spent on [other most-wanted tasks](README-wanted.md).
 * ImageMagick or similar (WIP: [MagickWand](https://github.com/azawawi/perl6-magickwand))
 
 
-## i18n and NLP
+## i18n and Text processing
 
-Internationalization and Natural Language Processing
+Internationalization and Text processing
 
 * [ICU](http://site.icu-project.org/)
 * [Snowball](http://snowball.tartarus.org/) (WIP: [perl6-snowball](https://github.com/Sufrostico/perl6-snowball) )
 
+## NLP and Machine Learning
+
+Natural Language Processing and Machine Learning
+
+* [LIBSVM](https://github.com/cjlin1/libsvm)
+* [LIBLINEAR](https://github.com/cjlin1/liblinear)
+* [XGBoost](https://github.com/dmlc/xgboost)
+* [MeCab](http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html)
 
 ## Security
 
