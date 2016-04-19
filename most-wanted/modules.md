@@ -180,7 +180,6 @@ Internationalization and Natural Language Processing
 ## IPC
 
 * IPC::Cmd
-* App::Whiff
 * IO::Capture (WIP: [IO::Capture::Simple](https://github.com/sergot/IO-Capture-Simple/))
 * DBus via [sd-bus](http://0pointer.net/blog/the-new-sd-bus-api-of-systemd.html)
 * Device::SerialPort
