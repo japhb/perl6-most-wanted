@@ -126,7 +126,6 @@ libraries, but that is not necessarily the case.
   + Devel::FindRef
   + Devel::PartialDump
 * Tracing
-  + Devel::Trace
   + Devel::STDERR::Indent
 * Profiling
   + Grammars (WIP: [Grammar::Profiler::Simple](https://github.com/perlpilot/Grammar-Profiler-Simple/))
