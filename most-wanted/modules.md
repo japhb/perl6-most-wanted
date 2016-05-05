@@ -146,6 +146,7 @@ libraries, but that is not necessarily the case.
 * Deployment
   + Carton
   + cpanfile
+  + Pinto
 
 
 ## Filesystems
