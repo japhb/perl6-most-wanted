@@ -62,7 +62,7 @@ Natural Language Processing and Machine Learning
   + Qt
   + Gtk (WIP: [GTK::Simple](https://github.com/perl6/gtk-simple/))
 * 2D Graphics
-  + SDL (WIP: [SDL](https://github.com/PerlGameDev/SDL6/), [SDL2](https:/github.com/timo/SDL2_raw-p6))
+  + SDL (WIP: [SDL](https://github.com/PerlGameDev/SDL6/), [SDL2](https://github.com/timo/SDL2_raw-p6))
 * 3D Graphics
   + OpenGL
 
