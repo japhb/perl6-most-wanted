@@ -4,8 +4,9 @@
 
 [Lists](most-wanted/README-wanted.md) of most wanted
 [core features](most-wanted/features.md),
-[native library bindings](most-wanted/bindings.md), and
-[modules](most-wanted/modules.md) for Perl 6, along with the
+[native library bindings](most-wanted/bindings.md),
+[modules](most-wanted/modules.md) and
+[documentation and tutorials](most-wanted/documentation.md) for Perl 6, along with the
 [research](data-sources/README-sources.md) that helped us select them.
 
 
@@ -23,3 +24,10 @@ modules need to be filled out (documentation, better error handling, etc.), and
 many more modules need to be created (or ported from Perl 5) to fill existing
 gaps.  This repo's goal is a gap analysis: a listing of what we have, what we
 need, and what's blocking module authors from filling all the gaps.
+
+
+## Editing
+
+Once a module, feature, or binding has been constructed, rather than removing it from
+the document here in which it appears, instead mark it as such and provide a date and
+link for the item.
