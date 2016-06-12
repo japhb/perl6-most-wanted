@@ -15,7 +15,7 @@ libraries, but that is not necessarily the case.
 
 * INI (WIP: [Config::INI](https://github.com/tadzik/perl6-Config-INI/))
 * GitLike
-* Netrc
+* Netrc ([Config::Netrc](https://github.com/Altai-man/perl6-Config-Netrc/))
 
 ## Core
 
