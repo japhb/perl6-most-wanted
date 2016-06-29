@@ -4,6 +4,16 @@ These are the most-wanted pure Perl 6 modules (as opposed to
 [native library bindings](bindings.md)).  These may be direct ports of Perl 5
 libraries, but that is not necessarily the case.
 
+## WIP Tags
+
+If you start implementing a module, but it's not ready for the release to the
+public yet, please mark it in the list as WIP (Work In Progress) with a link
+to the repository, so other potential authors do not assume no one is working
+on this problem.
+
+Once your work is added to the ecosystem, please **remove it from the Most
+Wanted list,** even if you're still fleshing out the module.
+
 ## Configuration
 
 * GitLike
