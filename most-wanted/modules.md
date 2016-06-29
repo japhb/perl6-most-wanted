@@ -247,7 +247,7 @@ Internationalization and Natural Language Processing
     - Mojo::Template (WIP: [Template::Mojo](https://github.com/tadzik/Template-Mojo/))
   + HTML (WIP: [HTML::Template](https://github.com/masak/html-template/))
 * Specialized tasks
-  + Text::Wrap/Text::Tabs
+  + Text::Wrap/Text::Tabs (WIP: [Text::Wrap](https://github.com/jkramer/p6-Text-Wrap))
   + Text::Abbrev (WIP: [Text::Abbrev](https://github.com/GlitchMr/perl6-Text-Abbrev/))
 * Regex/Grammar utilities
   + Regexp::Common
