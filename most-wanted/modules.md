@@ -24,7 +24,6 @@ Wanted list,** even if you're still fleshing out the module.
   + GPG
   + Block cyphers
     - DES
-    - AES
     - Blowfish
     - Twofish
   + Full set of block cypher modes
