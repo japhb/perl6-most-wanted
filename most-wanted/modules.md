@@ -24,7 +24,7 @@ Wanted list,** even if you're still fleshing out the module.
   + GPG
   + Block cyphers
     - DES
-    - AES (WIP:[OpenSSL::CryptoTools](https://github.com/sergot/openssl))
+    - AES
     - Blowfish
     - Twofish
   + Full set of block cypher modes
