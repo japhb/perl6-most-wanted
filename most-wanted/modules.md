@@ -179,7 +179,6 @@ Internationalization and Natural Language Processing
 * Specific tests
   + Test::Requires
   + Test::Spelling
-  + Test::NoTabs
   + Test::Number::Delta (WIP: [Test::Number::Delta](https://github.com/tbrowder/Test-Number-Delta-perl6/))
 * Simulation
   + Test::Without::Module
