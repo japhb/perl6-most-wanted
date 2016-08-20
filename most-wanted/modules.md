@@ -72,7 +72,7 @@ Wanted list,** even if you're still fleshing out the module.
 * Profiling
   + Devel::NYTProf?
 * Tidying
-  * Perl::Tidy
+  * Perl::Tidy (WIP: [Perl6::Tidy](https://github.com/drforr/perl6-Perl6-Tidy))
   * Code::TidyAll
 * Editor/IDE interfaces
   + Proc::InvokeEditor
