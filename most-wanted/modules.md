@@ -145,7 +145,7 @@ Internationalization and Natural Language Processing
 * Internet services
   + Net::GitHub::V3
   + App::ph
-  + Net::DNS::Manage (WIP: [Net::DNS::Manage](https://github.com/tbrowder/Net-DNS-Manage-Perl6/))
+  + Net::DNS::Bind::Manage (WIP: [Net::DNS::Bind::Manage](https://github.com/tbrowder/Net-DNS-Bind-Manage-Perl6/))
 * Security
   + Mozilla::CA
 
