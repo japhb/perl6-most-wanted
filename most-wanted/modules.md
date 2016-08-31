@@ -152,7 +152,7 @@ Internationalization and Natural Language Processing
 
 ## Numerical
 
-* Geo::Ellipsoid (WIP: [Geo::Ellipsoid](https://github.com/tbrowder/Geo-Ellipsoid-perl6))
+* Geo::Ellipsoid (WIP: [Geo::Ellipsoid](https://github.com/tbrowder/Geo-Ellipsoid-Perl6))
 
 
 ## Text processing
