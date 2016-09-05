@@ -215,5 +215,5 @@ Internationalization and Natural Language Processing
 
 ## Utilities
 
-* App::Ack
++ App::Ack (WIP: [App::Ack](https://github.com/elohmrow/App-Ack))
 * Email::Filter
