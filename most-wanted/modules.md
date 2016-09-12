@@ -160,7 +160,8 @@ Internationalization and Natural Language Processing
 
 * Regex/Grammar utilities
   + Regexp::Common
-
+* String utilities
+  + Lisp::Format
 
 ## Testing
 
