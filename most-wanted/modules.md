@@ -61,6 +61,8 @@ Wanted list,** even if you're still fleshing out the module.
 * Ecosystem
   + File::ShareDir
   + Pod::Cpandoc
+  + Pod::Checker
+  + Test::Pod
   + App::cpanoutdated (equivalent for panda)
 * App::Grindperl
 * Debugging (WIP: [Rakudo::Debugger](https://github.com/jnthn/rakudo-debugger/))
