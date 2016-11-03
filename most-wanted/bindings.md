@@ -45,7 +45,7 @@ Natural Language Processing and Machine Learning
 * [LIBSVM](https://github.com/cjlin1/libsvm)
 * [LIBLINEAR](https://github.com/cjlin1/liblinear)
 * [XGBoost](https://github.com/dmlc/xgboost)
-* [MeCab](http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html) (WIP: [MeCab](https://github.com/titsuki/p6-MeCab) )
+* [MeCab](http://taku910.github.io/mecab/) (WIP: [MeCab](https://github.com/titsuki/p6-MeCab) )
 
 ## Security
 
