@@ -197,7 +197,6 @@ Internationalization and Natural Language Processing
 * shared mem
 * Fcntl
 * POSIX
-* Daemonize
 
 
 ## User interfaces
