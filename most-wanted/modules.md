@@ -186,9 +186,9 @@ Internationalization and Natural Language Processing
   + Test::Requires
   + Test::Spelling
 * Simulation
-  + Test::Without::Module
-
-## Date / Time / Calendar
+  + Test::Without::Modu
+  
+## Time / Date / Calendar
 
 * Calendar::Any::Util::Calendar
 
