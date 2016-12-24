@@ -193,6 +193,7 @@ Internationalization and Natural Language Processing
 ## Time / Date / Calendar
 
 * Calendar::Any::Util::Calendar
+* DateTime::Math::More (WIP: [DateTime::Math::More](https://github.com/tbrowder/DateTime-Math-More-Perl6))
 * DateTime::Format::More (WIP: [DateTime::Format::More](https://github.com/tbrowder/DateTime-Format-More-Perl6))
 
 ## Unix
