@@ -134,6 +134,7 @@ Internationalization and Natural Language Processing
 * HTTP
   + RobotUA?
   + OAuth
+  + CGI (WIP: [CGI](https://github.com/tbrowder/CGI-Perl6))
 * RPC
   + JSON-RPC (WIP: [JSON::RPC](https://github.com/bbkr/jsonrpc/))
   + SOAP
