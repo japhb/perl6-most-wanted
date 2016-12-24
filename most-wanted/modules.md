@@ -165,7 +165,8 @@ Internationalization and Natural Language Processing
   + Regexp::Common
 * String utilities
   + Lisp::Format
-
+  + Text::More (WIP: [Text::More](https://github.com/tbrowder/Text-More-Perl6))
+  
 ## Testing
 
 * Smoking and reporting
