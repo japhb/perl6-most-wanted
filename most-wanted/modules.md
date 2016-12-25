@@ -54,6 +54,10 @@ Wanted list,** even if you're still fleshing out the module.
 * LDAP
   + Net::LDAP port?
 
+## Data Structures
+
+* Trees
+  + Data::BinaryTree
 
 ## Development
 
