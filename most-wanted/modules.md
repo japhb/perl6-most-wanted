@@ -58,6 +58,7 @@ Wanted list,** even if you're still fleshing out the module.
 
 * Trees
   + Data::BinaryTree
+  + Data::N-aryTree
 
 ## Development
 
