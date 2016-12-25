@@ -150,6 +150,7 @@ Internationalization and Natural Language Processing
   + App::ph
   + Net::DNS::BIND::Manage (WIP: [Net::DNS::BIND::Manage](https://github.com/tbrowder/Net-DNS-BIND-Manage-Perl6/))
   + API::DigitalOcean (WIP: [API::DigitalOcean](https://github.com/tbrowder/API-DigitalOcean-Perl6/))
+  + API::USNavalObservatory
 * Security
   + Mozilla::CA
 
