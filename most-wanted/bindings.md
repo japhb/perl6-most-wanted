@@ -42,7 +42,7 @@ Internationalization and Text processing
 
 Natural Language Processing and Machine Learning
 
-* [LIBSVM](https://github.com/cjlin1/libsvm)
+* [LIBSVM](https://github.com/cjlin1/libsvm) (WIP: [Algorithm::LibSVM](https://github.com/titsuki/p6-Algorithm-LibSVM)
 * [LIBLINEAR](https://github.com/cjlin1/liblinear)
 * [XGBoost](https://github.com/dmlc/xgboost)
 
