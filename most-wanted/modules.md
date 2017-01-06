@@ -174,6 +174,8 @@ Internationalization and Natural Language Processing
 * String utilities
   + Lisp::Format
   + Text::More (WIP: [Text::More](https://github.com/tbrowder/Text-More-Perl6))
+* Printing
+  + Postscript
   
 ## Testing
 
@@ -212,7 +214,6 @@ Internationalization and Natural Language Processing
 * Fcntl
 * POSIX
 
-
 ## User interfaces
 
 * Command line
@@ -228,7 +229,6 @@ Internationalization and Natural Language Processing
   + Chart::Clicker
 * GUI
   + WxWidgets
-
 
 ## Utilities
 
