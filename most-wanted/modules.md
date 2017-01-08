@@ -175,7 +175,7 @@ Internationalization and Natural Language Processing
   + Lisp::Format
   + Text::More (WIP: [Text::More](https://github.com/tbrowder/Text-More-Perl6))
 * Printing
-  + Postscript (functions, text output, graphics inclusion, etc.)
+  + PostScript (functions, text output, graphics inclusion, etc.) (WIP: [PostScript::Lib](https://github.com/tbrowder/PostScript-Lib-Perl6))
   
 ## Testing
 
