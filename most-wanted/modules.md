@@ -157,6 +157,7 @@ Internationalization and Natural Language Processing
   + Net::DNS::BIND::Manage (WIP: [Net::DNS::BIND::Manage](https://github.com/tbrowder/Net-DNS-BIND-Manage-Perl6/))
   + API::DigitalOcean (WIP: [API::DigitalOcean](https://github.com/tbrowder/API-DigitalOcean-Perl6/))
   + API::USNavalObservatory
+  + API::Mailman
 * Security
   + Mozilla::CA
 
