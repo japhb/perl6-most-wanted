@@ -34,7 +34,7 @@ Wanted list,** even if you're still fleshing out the module.
   + Tar (WIP: [Archive::Tar](https://github.com/FROGGS/p6-Archive-Tar))
 * Textual interchange of structured data
   + LDIF
-      - Net::LDAP port
+      - Net::LDAP portbb
 * File metadata
   + Image::Exiftool
 * XML-based formats
@@ -140,6 +140,8 @@ Internationalization and Natural Language Processing
   + RobotUA?
   + OAuth
   + CGI (WIP: [CGI](https://github.com/tbrowder/CGI-Perl6))
+  + CGI::Session
+  + CGI::Session::Auth
 * RPC
   + JSON-RPC (WIP: [JSON::RPC](https://github.com/bbkr/jsonrpc/))
   + SOAP
