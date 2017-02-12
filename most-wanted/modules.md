@@ -160,6 +160,7 @@ Internationalization and Natural Language Processing
   + API::DigitalOcean (WIP: [API::DigitalOcean](https://github.com/tbrowder/API-DigitalOcean-Perl6/))
   + API::USNavalObservatory
   + API::Mailman
+  + Net::Letsencrypt
 * Security
   + Mozilla::CA
 
