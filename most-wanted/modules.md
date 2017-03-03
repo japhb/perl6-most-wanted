@@ -137,6 +137,7 @@ Internationalization and Natural Language Processing
 * Email
   + Email::Sender
 * HTTP
+  + HTTP2 client and server
   + RobotUA?
   + OAuth
   + CGI (WIP: [CGI](https://github.com/tbrowder/CGI-Perl6))
