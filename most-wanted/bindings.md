@@ -28,6 +28,7 @@ better spent on [other most-wanted tasks](README-wanted.md).
 
 * Canvas and/or GD (WIP: [GD](https://github.com/mrhdias/perl6-GD/), [Cairo](https://github.com/timo/cairo-p6))
 * Charting/Graphing
+  + Gnuplot (WIP: [Chart::Gnuplot](https://github.com/titsuki/p6-Chart-Gnuplot) )
 * ImageMagick or similar (WIP: [MagickWand](https://github.com/azawawi/perl6-magickwand))
 
 
