@@ -204,6 +204,9 @@ Internationalization and Natural Language Processing
   + Test::Spelling
 * Simulation
   + Test::Without::Modu
+* Mocking
+  + Mock::Import - *overriding module's imports* ([SO question](http://stackoverflow.com/questions/42645801/how-to-mock-an-imported-subroutine-when-unit-testing-a-module), [IRC discussion](https://irclog.perlgeek.de/perl6/2017-03-07#i_14218539))
+  + Mock::Sub - *overriding a module's lexical subroutines* ([IRC discussion](https://irclog.perlgeek.de/perl6/2017-03-07#i_14218601); c.f. [Test::MockModule](https://metacpan.org/pod/Test::MockModule), [Sub::Override](https://metacpan.org/pod/Sub::Override))
   
 ## Time / Date / Calendar
 
