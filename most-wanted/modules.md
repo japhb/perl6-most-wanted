@@ -179,7 +179,6 @@ Internationalization and Natural Language Processing
   + Regexp::Common
 * String utilities
   + Lisp::Format
-  + Text::More (WIP: [Text::More](https://github.com/tbrowder/Text-More-Perl6))
 * Printing
   + PostScript (functions, text output, graphics inclusion, etc.) (WIP: [PostScript::Lib](https://github.com/tbrowder/PostScript-Lib-Perl6))
   
@@ -243,4 +242,3 @@ Internationalization and Natural Language Processing
 
 + App::Ack (WIP: [App::Ack](https://github.com/elohmrow/App-Ack))
 * Email::Filter
-* Linux::Proc::Time (WIP: [Linux::Proc::Time](https://github.com/tbrowder/Linux-Proc-Time-Perl6))
