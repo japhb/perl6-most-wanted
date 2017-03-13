@@ -170,7 +170,6 @@ Internationalization and Natural Language Processing
 
 * Geo::Ellipsoid (WIP: [Geo::Ellipsoid](https://github.com/tbrowder/Geo-Ellipsoid-Perl6))
 * Math::Units
-* Number::More (WIP: [Number::More](https://github.com/tbrowder/Number-More-Perl6))
 
 
 ## Text processing
