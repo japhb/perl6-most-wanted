@@ -53,6 +53,9 @@ Wanted list,** even if you're still fleshing out the module.
 * CHI, Cache::Cache, or similar
 * LDAP
   + Net::LDAP port?
+* Sql
+  + Sql::SQL92 (WIP: [Sql::SQL92](https://github.com/tbrowder/Sql-SQL92-Perl6))
+  + Sql::SQLite (WIP: [Sql::SQLite](https://github.com/tbrowder/Sql-SQLite-Perl6))
 
 ## Data Structures
 
@@ -161,7 +164,7 @@ Internationalization and Natural Language Processing
   + API::DigitalOcean (WIP: [API::DigitalOcean](https://github.com/tbrowder/API-DigitalOcean-Perl6/))
   + API::USNavalObservatory
   + API::Mailman
-  + Net::ACME
+  + Net::ACME2 (WIP: [Net::ACME2](https://github.com/tbrowder/Net-ACME2-Perl6/))
 * Security
   + Mozilla::CA
 
