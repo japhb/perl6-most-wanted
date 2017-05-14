@@ -161,7 +161,7 @@ Internationalization and Natural Language Processing
   + App::ph
   + Net::DNS::BIND::Manage (WIP: [Net::DNS::BIND::Manage](https://github.com/tbrowder/Net-DNS-BIND-Manage-Perl6/))
   + API::DigitalOcean (WIP: [API::DigitalOcean](https://github.com/tbrowder/API-DigitalOcean-Perl6/))
-  + API::USNavalObservatory
+  + API::USNavalObservatory (WIP: [API::USNavalObservatory](https://github.com/cbk/API-USNavalObservatory/))
   + API::Mailman
   + Net::ACME2 (WIP: [Net::ACME2](https://github.com/tbrowder/Net-ACME2-Perl6/))
 * Security
