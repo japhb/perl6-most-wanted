@@ -91,7 +91,7 @@ Wanted list,** even if you're still fleshing out the module.
   + Dist::Zilla
   + CPAN::Uploader
 * Deployment
-  + Carton
+  + Carton (WIP: [6pm](https://github.com/FCO/6pm)?)
   + cpanfile
   + Pinto
 
