@@ -12,7 +12,6 @@ better spent on [other most-wanted tasks](README-wanted.md).
 ## Archives and Compression
 
 * zlib (WIP: [Compress::Zlib](https://github.com/retupmoca/P6-Compress-Zlib/))
-* bzip2 ([Compress::Bzip2](https://github.com/Altai-man/perl6-Compress-Bzip2))
 * 7zip (7z.so/lib7zip)
 
 
