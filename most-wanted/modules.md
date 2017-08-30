@@ -139,7 +139,6 @@ Internationalization and Natural Language Processing
 
 * Email
   + Email::Sender
-  + Sendmail::Milter
 * HTTP
   + HTTP2 client and server
   + RobotUA?
