@@ -182,6 +182,8 @@ Internationalization and Natural Language Processing
   + Lisp::Format
 * Printing
   + PostScript (functions, text output, graphics inclusion, etc.) (WIP: [PostScript::Lib](https://github.com/tbrowder/PostScript-Lib-Perl6))
+* Fonts
+  + FreeType2 Library bindings (WIP: [Font::Freetype](https://github.com/p6-pdf/Font-FreeType-p6))
   
 ## Testing
 
