@@ -140,7 +140,7 @@ Internationalization and Natural Language Processing
 * Email
   + Email::Sender
 * HTTP
-  + HTTP2 client and server
+  + HTTP2 client and server (See [Cro::HTTP](https://github.com/croservices/cro-http))
   + RobotUA?
   + OAuth
   + CGI (WIP: [CGI](https://github.com/tbrowder/CGI-Perl6))
