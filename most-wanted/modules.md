@@ -166,6 +166,8 @@ Internationalization and Natural Language Processing
   + Net::ACME2 (WIP: [Net::ACME2](https://github.com/tbrowder/Net-ACME2-Perl6/))
 * Security
   + Mozilla::CA
+* Automation
+  + WWW::Mechanize
 
 
 ## Numerical
