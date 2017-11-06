@@ -173,7 +173,7 @@ Internationalization and Natural Language Processing
 ## Numerical
 
 * Geo::Ellipsoid (WIP: [Geo::Ellipsoid](https://github.com/tbrowder/Geo-Ellipsoid-Perl6))
-* Math::Units
+* Math::Units (WIP: [Unit::SI](https://github.com/holli-holzer/perl6-Unit-SI) (Name is just temporary)
 
 
 ## Text processing
