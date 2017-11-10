@@ -172,7 +172,6 @@ Internationalization and Natural Language Processing
 
 ## Numerical
 
-* Geo::Ellipsoid (WIP: [Geo::Ellipsoid](https://github.com/tbrowder/Geo-Ellipsoid-Perl6))
 * Math::Units (WIP: [Unit::SI](https://github.com/holli-holzer/perl6-Unit-SI) (Name is just temporary)
 
 
@@ -184,6 +183,7 @@ Internationalization and Natural Language Processing
   + Lisp::Format
 * Printing
   + PostScript (functions, text output, graphics inclusion, etc.) (WIP: [PostScript::Lib](https://github.com/tbrowder/PostScript-Lib-Perl6))
+  + RTF::Writer
 * Fonts
   + FreeType2 Library bindings (WIP: [Font::Freetype](https://github.com/p6-pdf/Font-FreeType-p6))
   
