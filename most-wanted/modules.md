@@ -222,7 +222,7 @@ Internationalization and Natural Language Processing
 * IO::Pty/IO::Pty::Easy
 * open2/open3
 * shared mem
-* Fcntl
+* Fcntl (WIP: [Fcntl](https://github.com/manchicken/perl6-Fcntl))
 * POSIX
 
 ## User interfaces
