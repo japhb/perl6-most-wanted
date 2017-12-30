@@ -222,7 +222,7 @@ Internationalization and Natural Language Processing
 * IO::Pty/IO::Pty::Easy
 * open2/open3
 * shared mem
-* POSIX
+* POSIX (WIP: [POSIX](https://github.com/cspencer/perl6-posix))
 
 ## User interfaces
 
