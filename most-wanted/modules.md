@@ -145,6 +145,7 @@ Internationalization and Natural Language Processing
   + OAuth
   + CGI (WIP: [CGI](https://github.com/tbrowder/CGI-Perl6))
   + Data::Session
+  + CGI::Session::Auth
 * RPC
   + JSON-RPC (WIP: [JSON::RPC](https://github.com/bbkr/jsonrpc/))
   + SOAP
