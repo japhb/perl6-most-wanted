@@ -164,6 +164,7 @@ Internationalization and Natural Language Processing
   + API::USNavalObservatory (WIP: [API::USNavalObservatory](https://github.com/cbk/API-USNavalObservatory/))
   + API::Mailman
   + Net::ACME2
+  + WebService::Client
 * Security
   + Mozilla::CA
 * Automation
