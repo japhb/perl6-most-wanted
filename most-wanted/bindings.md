@@ -58,6 +58,8 @@ Natural Language Processing and Machine Learning
 * GUI
   + Qt
   + Gtk (WIP: [GTK::Simple](https://github.com/perl6/gtk-simple/))
+  + WxWidgets
+  + Tcl, Tcl::Tk (hopefully soon to start by VKON)
 * 2D Graphics
   + SDL (WIP: [SDL](https://github.com/PerlGameDev/SDL6/), [SDL2](https://github.com/timo/SDL2_raw-p6))
 * 3D Graphics

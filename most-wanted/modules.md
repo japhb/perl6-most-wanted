@@ -238,8 +238,6 @@ Internationalization and Natural Language Processing
   + Term::KBD
 * Plotting/Charting/Graphing
   + Chart::Clicker
-* GUI
-  + WxWidgets
 
 ## Utilities
 
