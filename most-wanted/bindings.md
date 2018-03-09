@@ -77,5 +77,5 @@ Natural Language Processing and Machine Learning
   + Libxml2 (WIP: [XML::LibXML](https://github.com/FROGGS/p6-XML-LibXML))
   + Libxslt
 * GeoIP (WIP: [GeoIP](https://github.com/bbkr/GeoIPerl6))
-* [libgit2](https://libgit2.github.com/) (WIP - curt@tilmes.org)
+* [libgit2](https://libgit2.github.com/) (WIP [LibGit2](https://github.com/CurtTilmes/perl6-libgit2))
 * spidev (similarly to [py-spidev](https://github.com/doceme/py-spidev))
