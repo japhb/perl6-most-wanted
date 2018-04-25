@@ -85,7 +85,6 @@ Wanted list,** even if you're still fleshing out the module.
   * Perl::Tidy (WIP: [Perl6::Tidy](https://github.com/drforr/perl6-Perl6-Tidy))
   * Code::TidyAll
 * Editor/IDE interfaces
-  + Proc::InvokeEditor (WIP: [Proc::Editor](https://github.com/jkramer/p6-proc-editor)
   + Vi::QuickFix?
 * Project lifecycle
   + Dist::Zilla
