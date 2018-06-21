@@ -79,7 +79,7 @@ Wanted list,** even if you're still fleshing out the module.
   + Devel::PartialDump
 * Tracing
   + Devel::STDERR::Indent
-* Profiling
+* Profiling (?? not covered by --profile?)
   + Devel::NYTProf?
 * Tidying
   * Perl::Tidy (WIP: [Perl6::Tidy](https://github.com/drforr/perl6-Perl6-Tidy))
