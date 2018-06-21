@@ -105,7 +105,6 @@ Wanted list,** even if you're still fleshing out the module.
 
 Internationalization and Natural Language Processing
 
-* App::Uni
 * Unicode::Collate?
 * Unicode::UCD?
 * Unicode::Tussle?
