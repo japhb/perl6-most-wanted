@@ -79,13 +79,12 @@ Wanted list,** even if you're still fleshing out the module.
   + Devel::PartialDump
 * Tracing
   + Devel::STDERR::Indent
-* Profiling
+* Profiling (?? not covered by --profile?)
   + Devel::NYTProf?
 * Tidying
   * Perl::Tidy (WIP: [Perl6::Tidy](https://github.com/drforr/perl6-Perl6-Tidy))
   * Code::TidyAll
 * Editor/IDE interfaces
-  + Proc::InvokeEditor
   + Vi::QuickFix?
 * Project lifecycle
   + Dist::Zilla
@@ -106,7 +105,6 @@ Wanted list,** even if you're still fleshing out the module.
 
 Internationalization and Natural Language Processing
 
-* App::Uni
 * Unicode::Collate?
 * Unicode::UCD?
 * Unicode::Tussle?
@@ -155,13 +153,12 @@ Internationalization and Natural Language Processing
 * Other protocols
   + NNTP
   + Ping
-  + Telnet
+  + Telnet (WIP: [Net::Telnet](https://github.com/Kaiepi/p6-Net-Telnet/))
 * Internet services
   + Net::GitHub::V3
   + App::ph
   + Net::DNS::BIND::Manage (WIP: [Net::DNS::BIND::Manage](https://github.com/tbrowder/Net-DNS-BIND-Manage-Perl6/))
   + API::DigitalOcean (WIP: [API::DigitalOcean](https://github.com/tbrowder/API-DigitalOcean-Perl6/))
-  + API::USNavalObservatory (WIP: [API::USNavalObservatory](https://github.com/cbk/API-USNavalObservatory/))
   + API::Mailman
   + Net::ACME2
   + WebService::Client
