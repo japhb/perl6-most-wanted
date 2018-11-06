@@ -51,8 +51,6 @@ Wanted list,** even if you're still fleshing out the module.
 * NoSQL
   + CouchDB (WIP: [Sofa](https://github.com/jonathanstowe/Sofa))
 * CHI, Cache::Cache, or similar
-* LDAP
-  + Net::LDAP port?
 * Sql
   + Sql::SQL92 (WIP: [Sql::SQL92](https://github.com/tbrowder/Sql-SQL92-Perl6))
   + Sql::SQLite (WIP: [Sql::SQLite](https://github.com/tbrowder/Sql-SQLite-Perl6))
