@@ -74,7 +74,7 @@ Natural Language Processing and Machine Learning
 ## Other
 
 * XML
-  + Libxml2 (WIP: [XML::LibXML](https://github.com/FROGGS/p6-XML-LibXML))
+  + Libxml2 (WIP: 1. [XML::LibXML](https://github.com/FROGGS/p6-XML-LibXML), 2. [LibXML](https://github.com/p6-xml/LibXML-p6))
   + Libxslt
 * GeoIP (WIP: [GeoIP](https://github.com/bbkr/GeoIPerl6))
 * [libgit2](https://libgit2.github.com/) (WIP [LibGit2](https://github.com/CurtTilmes/perl6-libgit2))
