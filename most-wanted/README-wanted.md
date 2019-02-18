@@ -7,4 +7,4 @@ directory.  The files here are broken down as follows:
 * [Core functionality and setting features](features.md)
 * [Native library bindings](bindings.md)
 * [Perl 6 modules](modules.md)
-* [Documentation and tutorials](documentation.md)
+
