@@ -14,6 +14,9 @@ on this problem.
 Once your work is added to the ecosystem, please **remove it from the Most
 Wanted list,** even if you're still fleshing out the module.
 
+Please also add an issue with some explanation of why you think that's
+needed in the ecosystem.
+
 ## Configuration
 
 * GitLike
