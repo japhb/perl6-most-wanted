@@ -1,6 +1,6 @@
 # Most Wanted Native Bindings
 
-These are the native libraries that are most wanted as NativeCall bindings
+These are the native libraries that are most wanted as [NativeCall](https://docs.perl6.org/language/nativecall#index-entry-nativecall) bindings
 rather than as Perl 6 source ports.  Often this is because the native library
 offers performance or security guarantees that would be difficult or
 impossible to provide in HLL code.  In other cases, it is because the library
@@ -20,7 +20,6 @@ better spent on [other most-wanted tasks](README-wanted.md).
 * DBD::
   + MySQL (TODO: proper placeholder / prepared statements)
   + Postgres (TODO: binary data, casting to appropriate types)
-  + SQLite (done)
 
 
 ## Image processing
@@ -46,7 +45,6 @@ Natural Language Processing and Machine Learning
 
 ## Security
 
-* openssl (WIP: [SSL](https://github.com/grondilu/openssl/), [OpenSSL](https://github.com/sergot/openssl/))
 * ssh
 
 

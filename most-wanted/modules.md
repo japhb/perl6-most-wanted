@@ -31,7 +31,6 @@ Wanted list,** even if you're still fleshing out the module.
 ## Data formats
 
 * Archives
-  + Tar (WIP: [Archive::Tar](https://github.com/FROGGS/p6-Archive-Tar))
 * Textual interchange of structured data
   + LDIF
       - Net::LDAP portbb
@@ -49,7 +48,6 @@ Wanted list,** even if you're still fleshing out the module.
 
 * DBM?
 * NoSQL
-  + CouchDB (WIP: [Sofa](https://github.com/jonathanstowe/Sofa))
 * CHI, Cache::Cache, or similar
 
 ## Data Structures
@@ -85,7 +83,6 @@ Wanted list,** even if you're still fleshing out the module.
   + Dist::Zilla
   + CPAN::Uploader
 * Deployment
-  + Carton (WIP: [6pm](https://github.com/FCO/6pm)?)
   + cpanfile
   + Pinto
 
@@ -95,7 +92,6 @@ Wanted list,** even if you're still fleshing out the module.
 
 ## Filesystems
 
-* File::Spec (WIP: [File::Spec](https://github.com/FROGGS/p6-File-Spec/))
 * File::pushd (WIP: [File::pushd](https://github.com/Emeric54/File-pushd))
 
 
@@ -136,10 +132,8 @@ Internationalization and Natural Language Processing
 * Email
   + Email::Sender
 * HTTP
-  + HTTP2 client and server (See [Cro::HTTP](https://github.com/croservices/cro-http))
   + RobotUA?
   + OAuth
-  + CGI (WIP: [CGI](https://github.com/tbrowder/CGI-Perl6))
   + Data::Session
   + CGI::Session::Auth
 * RPC
@@ -168,7 +162,7 @@ Internationalization and Natural Language Processing
 
 ## Numerical
 
-* Math::Units (WIP: [Unit::SI](https://github.com/holli-holzer/perl6-Unit-SI) (Name is just temporary)
+* Math::Units (WIP: [Unit::SI](https://github.com/holli-holzer/perl6-Unit) (Name is just temporary)
 
 
 ## Text processing
@@ -237,5 +231,5 @@ Internationalization and Natural Language Processing
 
 ## Utilities
 
-+ App::Ack (WIP: [App::Ack](https://github.com/elohmrow/App-Ack))
++ App::Ack 
 * Email::Filter
