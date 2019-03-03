@@ -108,7 +108,7 @@ Internationalization and Natural Language Processing
 * Unicode::LineBreak?
 * Encodings/charsets other than builtin UTF-8/Unicode
 * Maketext
-* Standard codes: (WIP: [Unicode::CLDR](https://github.com/tbrowder/Unicode-CLDR-Perl6/))
+* Standard codes: (WIP: [Unicode::CLDR](https://github.com/tbrowder/Unicode-CLDR-Perl6/), some related work in [Intl::BCP47](https://github.com/alabamenhu/BCP47))
   + country
   + currency
   + language
