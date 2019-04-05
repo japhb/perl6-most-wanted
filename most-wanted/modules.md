@@ -35,8 +35,6 @@ needed in the ecosystem.
 
 * Archives
 * Textual interchange of structured data
-  + LDIF
-      - Net::LDAP portbb
 * File metadata
   + Image::Exiftool
 * XML-based formats
