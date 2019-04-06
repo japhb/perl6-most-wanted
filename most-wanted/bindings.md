@@ -75,3 +75,4 @@ Natural Language Processing and Machine Learning
 * GeoIP (WIP: [GeoIP](https://github.com/bbkr/GeoIPerl6))
 * [libgit2](https://libgit2.github.com/) (WIP [LibGit2](https://github.com/CurtTilmes/perl6-libgit2))
 * spidev (similarly to [py-spidev](https://github.com/doceme/py-spidev))
+* [rsync](https://rsync.samba.org/) 
