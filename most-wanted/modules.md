@@ -101,7 +101,7 @@ needed in the ecosystem.
 Internationalization and Natural Language Processing
 
 * Unicode::Collate?
-* Unicode::UCD?
+* Unicode::UCD (WIP: [Unicode::UCD](https://github.com/beta0x64/perl6-Unicode-UCD))
 * Unicode::Tussle?
 * Unicode::LineBreak?
 * Encodings/charsets other than builtin UTF-8/Unicode
