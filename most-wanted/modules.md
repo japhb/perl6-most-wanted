@@ -146,7 +146,6 @@ Internationalization and Natural Language Processing
 * Other protocols
   + NNTP
   + Ping
-  + Telnet (WIP: [Net::Telnet](https://github.com/Kaiepi/p6-Net-Telnet/))
 * Internet services
   + Net::GitHub::V3
   + App::ph
