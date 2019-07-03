@@ -146,7 +146,6 @@ Internationalization and Natural Language Processing
 * Other protocols
   + NNTP
   + Ping
-  + Net::Telnet::Unix and Net::Telnet::Windows (Net::Telnet doesn't implement terminal emulation since it's platform dependent; they need their own modules)
 * Internet services
   + Net::GitHub::V3
   + App::ph
