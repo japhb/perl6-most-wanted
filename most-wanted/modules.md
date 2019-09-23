@@ -94,7 +94,14 @@ needed in the ecosystem.
 ## Filesystems
 
 * File::pushd (WIP: [File::pushd](https://github.com/Emeric54/File-pushd))
-
+* File::Copy (WIP: [File::Copy](https://github.com/tbrowder/File-Copy))
+  + will include multi-subs of Raku built-in subs enhanced to operate with
+    directories as well as files:
+    - copy
+    - move
+    - rename
+    - rmdir
+    - ...
 
 ## i18n and NLP
 
