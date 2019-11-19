@@ -56,7 +56,7 @@ needed in the ecosystem.
 * Trees
   + Tree::BinaryTree
   + Tree::M-ary
-  + Tree::AVL (WIP: [Tree](https://github.com/tbrowder/Tree.git)
+  + Tree::AVL (WIP: [Tree](https://github.com/tbrowder/Tree.git))
 
 ## Development
 
