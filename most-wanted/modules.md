@@ -1,7 +1,7 @@
 # Most Wanted Modules
 
-These are the most-wanted pure Perl 6 modules (as opposed to
-[native library bindings](bindings.md)).  These may be direct ports of Perl 5
+These are the most-wanted pure Raku modules (as opposed to
+[native library bindings](bindings.md)).  These may be direct ports of Perl
 libraries, but that is not necessarily the case.
 
 ## WIP Tags
@@ -54,8 +54,9 @@ needed in the ecosystem.
 ## Data Structures
 
 * Trees
-  + Data::BinaryTree
-  + Data::N-aryTree
+  + Tree::BinaryTree
+  + Tree::M-ary
+  + Tree::AVL (WIP: [Tree](https://github.com/tbrowder/Tree.git)
 
 ## Development
 
