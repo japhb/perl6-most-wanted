@@ -1,18 +1,18 @@
-# perl6-most-wanted
+# raku-most-wanted
 
 [Lists](most-wanted/README-wanted.md) of most wanted
 [native library bindings](most-wanted/bindings.md),
 [modules](most-wanted/modules.md) and
 [research](data-sources/README-sources.md) that helped us select them.
 
-Add your wanted module, with an [issue](https://github.com/perl6/perl6-most-wanted/issues) to justify why you think someone
+Add your wanted module, with an [issue](https://github.com/raku/raku-most-wanted/issues) to justify why you think someone
 should work on that.
 
 ## Why do this?
 
 To make a distro release useful for "early majority" users, the existing
 modules need to be filled out (such as documentation and better error handling), and
-many more modules need to be created (or ported from Perl 5) to fill existing
+many more modules need to be created (or ported from Perl) to fill existing
 gaps.  This repo's goal is a gap analysis: a listing of what we have, what we
 need, and what's blocking module authors from filling all the gaps.
 

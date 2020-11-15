@@ -5,5 +5,5 @@ the various files in the [data-sources](../data-sources/README-sources.md)
 directory.  The files here are broken down as follows:
 
 * [Native library bindings](bindings.md)
-* [Perl 6 modules](modules.md)
+* [Raku modules](modules.md)
 

@@ -90,7 +90,7 @@ needed in the ecosystem.
 
 ## Graphics
 
-* Graphics::Magick (port of Perl 5 version)
+* Graphics::Magick (port of Perl version)
 
 ## Filesystems
 
@@ -206,7 +206,7 @@ Internationalization and Natural Language Processing
 * Calendar::Any::Util::Calendar
 * DateTime::Math::More (WIP: [DateTime::Math::More](https://github.com/tbrowder/DateTime-Math-More-Perl6))
 * DateTime::Format::More (WIP: [DateTime::Format::More](https://github.com/tbrowder/DateTime-Format-More-Perl6))
-* Date::Calc (port of Perl 5 version)
+* Date::Calc (port of Perl version)
 
 ## Unix
 
