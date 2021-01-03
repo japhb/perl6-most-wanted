@@ -182,8 +182,6 @@ Internationalization and Natural Language Processing
   + Test::Reporter
   + CPANTS
 * Harnesses
-  + TAP::Parser
-  + App::Prove
   + App::ForkProve
   + Test::Aggregate?
 * Test output
