@@ -160,7 +160,6 @@ Internationalization and Natural Language Processing
 
 ## Numerical
 
-* Math::Units (WIP: [Unit::SI](https://github.com/holli-holzer/perl6-Unit) (Name is just temporary)
 
 
 ## Text processing
