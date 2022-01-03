@@ -157,10 +157,10 @@ Internationalization and Natural Language Processing
 * Automation
   + WWW::Mechanize
 
-
 ## Numerical
 
-
+* NumPy equivalent
+* SciPy equivalent
 
 ## Text processing
 
